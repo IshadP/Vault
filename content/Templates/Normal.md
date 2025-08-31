@@ -34,6 +34,7 @@ let tag = await tp.system.prompt("Enter a tag for this note");
 
 //Frontmatter
 tp.frontmatter.draft = isDraft;
+tp.frontmatter.draft = title;
 
 // Date
 let date = tp.date.now("YYYY-MM-DD");
