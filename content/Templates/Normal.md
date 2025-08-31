@@ -35,6 +35,6 @@ tags: ${tag}
 // Date
 let date = tp.date.now("YYYY-MM-DD");
 
-
+await tp.file.append(frontmatter)
 %>
 
