@@ -6,28 +6,32 @@ tags:
 ---
 <%*
 let title = await tp.system.prompt("Title");
-let isDraft = await tp.system.prompt("Is this a draft? (yes/no)", "no");
+let isDraftInput = await tp.system.prompt("Is this a draft? (yes/no)", "no");
+let isDraft = (isDraftInput.toLowerCase() === "yes") ? true : false;
 
 let allFilesAndFolders = this.app.vault.getAllLoadedFiles();
 let folders = allFilesAndFolders.filter(t => t.isTFolder).map(f => f.path);
 
 let folder = await tp.system.suggester(folders, folders, true, "Select a folder");
 
-let newPath = (folder) ? `${folder}/${title}` : `${title}`;
-
+let newPath = (folder) ? `${folder}/${title}.md` : `${title}.md`;
 await tp.file.move(newPath);
 
-let frontmatter = `---
+let tag = await tp.system.prompt("Enter a tag for this note");
+
+let date = tp.date.now("YYYY-MM-DD");
+
+let frontmatter =
+`---
 title: ${title}
 draft: ${isDraft}
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: ${date}
 tags:
-- <% tp.system.prompt("Enter a tag for this note") %>
+- ${tag}
 ---
-
 `;
 
 await tp.file.prepend(frontmatter);
 
 await tp.file.append(`# ${title}`);
-_%>
+%>
