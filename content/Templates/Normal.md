@@ -6,7 +6,7 @@ let title = await tp.system.prompt("Title");
 
 // Prompt for draft
 let isDraftInput = await tp.system.prompt("Is this a draft? (yes/no)", "no");
-let isDraft = (isDraftInput.toLowerCase() === "yes");
+let isDraft = (isDraftInput === "yes");
 
 // Get all folders
 let folders = this.app.vault.getAllLoadedFiles()
