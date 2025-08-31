@@ -16,8 +16,10 @@ let folders = this.app.vault.getAllLoadedFiles()
 // Folder selector
 let folder = await tp.system.suggester(folders, folders);
 
-// Rename and move file
-await tp.file.rename(`${title}`);
+// Rename file without extension (Obsidian adds .md automatically)
+await tp.file.rename(title);
+
+// Move file with .md
 await tp.file.move(`/${folder}/${title}.md`);
 
 // Tag input
