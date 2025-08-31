@@ -2,10 +2,10 @@
 ---
 title: <% tp.file.title %>
 draft: false
-tags: <% tp %>
+tags:
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+
 <%*
 
 // Prompt for title
