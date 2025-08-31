@@ -16,11 +16,11 @@ let folders = this.app.vault.getAllLoadedFiles()
 // Folder selector
 let folder = await tp.system.suggester(folders, folders);
 
-// Rename file without extension (Obsidian adds .md automatically)
+// Rename file (Obsidian adds .md automatically)
 await tp.file.rename(title);
 
-// Move file with .md
-await tp.file.move(`/${folder}/${title}.md`);
+// Move file (do NOT add .md)
+await tp.file.move(`/${folder}/${title}`);
 
 // Tag input
 let tag = await tp.system.prompt("Enter a tag for this note");
@@ -29,3 +29,4 @@ let tag = await tp.system.prompt("Enter a tag for this note");
 let date = tp.date.now("YYYY-MM-DD");
 
 %>
+
