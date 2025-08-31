@@ -40,7 +40,7 @@ let date = tp.date.now("YYYY-MM-DD");
 %>
 
 <%*
-tp.file.cursor()
+tp.file.cursor(1)
 //Frontmatter
 await tp.file.cursor_append( `---
 title: ${title}
