@@ -5,4 +5,4 @@ views:
     name: View
     cardSize: 280
     imageFit: contain
-    imageAspectRatio: 1.55
+    imageAspectRatio: 1.3
