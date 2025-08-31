@@ -16,5 +16,5 @@ tags:
 `;
 
 tR += frontmatter;   // write frontmatter
+tR += tp.file.cursor();   // teleport cursor here
 %>
-# ${title}
