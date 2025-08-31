@@ -2,7 +2,7 @@
 ---
 title: <% tp.file.title %>
 draft: <% tp.frontmatter.draft %>
-tags:
+tags: 
 ---
  
 
