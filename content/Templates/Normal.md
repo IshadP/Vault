@@ -35,6 +35,10 @@ tags: ${tag}
 // Date
 let date = tp.date.now("YYYY-MM-DD");
 
-await tp.file.append(frontmatter)
+await tp.file.cursor_append(frontmatter)---
+title: owo
+draft: true
+tags: 
+---
 %>
 
