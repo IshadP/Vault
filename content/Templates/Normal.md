@@ -1,7 +1,7 @@
 
 ---
-title: <%tp.file.title%>
-draft: <%tp.%>
+title: <% tp.file.title %>
+draft: >
 tags:
   - example-tag
 ---
