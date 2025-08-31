@@ -1,8 +1,7 @@
 ---
-title: 
-draft: 
-tags: 
-
+title: Welcome!
+draft: "false"
+tags:
 ---
  
 
@@ -33,9 +32,8 @@ await tp.file.move(`/${folder}/${title}`);
 let tag = await tp.system.prompt("Enter a tag for this note");
 
 //Frontmatter
-tp.frontmatter.draft = isDraft;
 tp.frontmatter.title = title;
-
+tp.frontmatter.draft = isDraft;
 // Date
 let date = tp.date.now("YYYY-MM-DD");
 %>
