@@ -5,7 +5,7 @@
 let title = await tp.system.prompt("Title");
 
 // Prompt for draft
-let isDraftInput = await tp.system.prompt("Is this a draft? (t/no)", "no");
+let isDraftInput = await tp.system.prompt("Is this a draft? (t/f)", );
 let isDraft = (isDraftInput.toLowerCase() === "yes");
 
 // Get all folders
