@@ -32,6 +32,7 @@ title: ${title}
 draft: ${isDraft}
 tags: ${tag}
 ---`)
+
 // Date
 let date = tp.date.now("YYYY-MM-DD");
 
