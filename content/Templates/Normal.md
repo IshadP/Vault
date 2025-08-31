@@ -1,6 +1,6 @@
 
 ---
-title: Example Title
+title: <tp.sys
 draft: false
 tags:
   - example-tag
