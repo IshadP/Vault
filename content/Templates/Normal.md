@@ -27,7 +27,7 @@ await tp.file.move(`/${folder}/${title}`);
 let tag = await tp.system.prompt("Enter a tag for this note");
 
 //Frontmatter
-tp.frontmatter = `---
+let frontmatter = `---
 title: ${title}
 draft: ${isDraft}
 tags: ${tag}
