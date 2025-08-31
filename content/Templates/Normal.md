@@ -4,5 +4,5 @@ draft: <%tp.system.prompt("Should this be published?(true/false)", "" %>
 tags:
   - example-tag
 ---
-<% tp.system.prompt("Enter a title for this note", tp.file.title) %>
+<%* tp.system.prompt("Enter a title for this note", tp.file.title) %>
 
