@@ -2,7 +2,7 @@
 
 ---
 title: <%tp.file.title%>
-draft: <
+draft: <%tp.system.prompt%>
 tags:
   - example-tag
 ---
