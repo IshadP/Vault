@@ -1,6 +1,6 @@
 
 ---
-title: <% tp.file.title %>
+title: <% tp.isDraft %>
 draft: <% tp.frontmatter.draft %>
 tags: 
 ---
