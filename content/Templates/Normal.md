@@ -1,7 +1,7 @@
 
 ---
-title: <% tp.isDraft %>
-draft: <% tp.frontmatter.draft %>
+title: 
+draft: false
 tags: 
 ---
  
