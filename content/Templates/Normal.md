@@ -26,7 +26,7 @@ await tp.file.move(`/${folder}/${title}`);
 let tag = await tp.system.prompt("Enter a tag for this note");
 
 //Frontmatter
-let
+
 
 // Date
 let date = tp.date.now("YYYY-MM-DD");
