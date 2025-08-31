@@ -1,6 +1,6 @@
 <%*
 let title = await tp.system.prompt("Title");
-let draftInput = await tp.system.prompt("Draft? (t/f)", "f");
+let draftInput = await tp.system.prompt("Draft? (t/f)", "t");
 let isDraft = (draftInput.toLowerCase() === "t") ? "true" : "false";
 let tag = await tp.system.prompt("Enter a tag for this note");
 let date = tp.date.now("YYYY-MM-DD");
