@@ -1,3 +1,9 @@
+---
+title: <%tp.file.title%>
+draft: <%tp.system.prompt("Should this be published?(true/false)", "false" %>
+tags:
+
+---
 <%*  
 
 const title = await tp.system.prompt("Title");
@@ -20,10 +26,4 @@ await tp.file.move(`/${folder}/${title}`)
 
   
 
-%>---
-title: <%tp.file.title%>
-draft: <%tp.system.prompt("Should this be published?(true/false)", "false" %>
-tags:
-
----
- 
+%>
