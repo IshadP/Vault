@@ -9,6 +9,7 @@ let frontmatter = `---
 title: ${title}
 draft: ${isDraft}
 date: ${date}
+view: read
 tags:
 - ${tag}
 ---
