@@ -2,7 +2,7 @@
 
 ---
 title: <%tp.file.title%>
-draft: <%tp.system.prompt("Should this be published?"%>
+draft: <%tp.system.prompt("Should this be published?", %>
 tags:
   - example-tag
 ---
