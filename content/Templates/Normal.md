@@ -1,3 +1,4 @@
 
 <%*
-tp.system.pr%>
+tp.system.prompt("Hello");
+%>
