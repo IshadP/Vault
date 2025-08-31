@@ -1,3 +1,4 @@
+
 <%*
 let title = await tp.system.prompt("Title");
 let isDraftInput = await tp.system.prompt("Is this a draft? (yes/no)", "no");
