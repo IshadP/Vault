@@ -26,17 +26,4 @@ let tag = await tp.system.prompt("Enter a tag for this note");
 // Date
 let date = tp.date.now("YYYY-MM-DD");
 
-// Frontmatter
-let frontmatter =
-`---
-title: ${title}
-draft: ${isDraft}
-date: ${date}
-tags:
-- ${tag}
----
-`;
-
-await tp.file.prepend(frontmatter);
-await tp.file.append(`# ${title}`);
 %>
