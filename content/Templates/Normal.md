@@ -4,9 +4,9 @@
 // Prompt for title
 let title = await tp.system.prompt("Title");
 
-// Prompt for draft
-let isDraftInput = await tp.system.prompt("Is this a draft? (t/f)", );
-let isDraft = (isDraftInput.toLowerCase() === "yes");
+// Prompt for draft (t/f)
+let isDraftInput = await tp.system.prompt("Draft? (t/f)", "f");
+let isDraft = (isDraftInput.toLowerCase() === "t") ? "true" : "false";
 
 // Get all folders
 let folders = this.app.vault.getAllLoadedFiles()
@@ -28,5 +28,18 @@ let tag = await tp.system.prompt("Enter a tag for this note");
 // Date
 let date = tp.date.now("YYYY-MM-DD");
 
+// Frontmatter
+let frontmatter =
+`---
+title: ${title}
+draft: ${isDraft}
+date: ${date}
+tags:
+- ${tag}
+---
+`;
+
+await tp.file.prepend(frontmatter);
+await tp.file.append(`# ${title}`);
 %>
 
