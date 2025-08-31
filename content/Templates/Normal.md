@@ -26,6 +26,7 @@ await tp.file.move(`/${folder}/${title}`);
 // Tag input
 let tag = await tp.system.prompt("Enter a tag for this note");
 
+tp.file.cursor
 //Frontmatter
 await tp.file.cursor_append( `---
 title: ${title}
