@@ -26,7 +26,7 @@ Many people skip over sponsored results, while some use them as "the way it shou
 
 **While AI can reduce the time, it doesn't eliminate the whole search. This is due to fact that people can't trust AI completely!**
 
-
+> [!]
 
 
 
