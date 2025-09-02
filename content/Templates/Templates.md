@@ -9,6 +9,5 @@ tags:
 
 %% Begin Waypoint %%
 - [[Article]]
-- [[Index]]
-
-%% End Waypoint %%
+- [[Code]]
+- [[[Code]] End Waypoint %%
