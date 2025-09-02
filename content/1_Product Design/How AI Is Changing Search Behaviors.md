@@ -8,4 +8,5 @@ tags:
   - UX
   - Psycology
 ---
+-> Information searching habits are sticky.
 
