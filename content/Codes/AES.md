@@ -90,3 +90,5 @@ public class AES {
 }
 ```
 ##### Output:
+
+![[Pasted image 20250902090505.png]]
