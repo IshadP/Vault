@@ -16,7 +16,7 @@ let frontmatter = `---
 title: ${title}
 draft: false
 date: ${date}
-view: read
+ObsidianUIMode: preview
 tags:
 - ${tag}
 ---
