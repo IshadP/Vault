@@ -10,7 +10,9 @@ tags:
 ---
 -> **Information searching habits are sticky.**
 
+> [!info]
 > Reliable way to find info = nearly instinctive
+
 
 
 
