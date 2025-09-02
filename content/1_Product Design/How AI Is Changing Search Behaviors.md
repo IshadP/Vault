@@ -9,8 +9,15 @@ tags:
   - Psycology
 ---
 -> **Information searching habits are sticky.**
+	Reliable way to find info = nearly instinctive
 
-> Reliable way to find info = nearly instinctive
+> People tend to use what they are already comfortable with
+
+
+
+
+
+
 
 
 
