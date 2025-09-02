@@ -23,7 +23,10 @@ Many people skip over sponsored results, while some use them as "the way it shou
 2. People use AI in initial stages or to find quick info, but the usefulness ends there.
 	1. Then they proceed the old fashioned way, so searching various websites!
 3. New Users are impressed by AI quickly as they find ways to do a task quickly (can be used to help new users in app.)
-4. 
+
+**While AI can reduce the time, it doesn't eliminate the whole search. This is due to fact that people can't trust AI completely!**
+
+
 
 
 
