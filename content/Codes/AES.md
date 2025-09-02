@@ -6,9 +6,6 @@ view: read
 tags:
   - "#AES"
 ---
-
-<% tp.file.cursor() %>
-
 ```Java
 // paste code here
 import java.nio.charset.StandardCharsets;
