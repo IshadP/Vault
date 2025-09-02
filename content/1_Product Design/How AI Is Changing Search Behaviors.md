@@ -22,7 +22,8 @@ Many people skip over sponsored results, while some use them as "the way it shou
 	1. One good example is **Google's AI mode** -> research found that when people are less likely to visit the site.
 2. People use AI in initial stages or to find quick info, but the usefulness ends there.
 	1. Then they proceed the old fashioned way, so searching various websites!
-3. 
+3. New Users are impressed by AI quickly as they find ways to do a task quickly (can be used to help new users in app.)
+4. 
 
 
 
