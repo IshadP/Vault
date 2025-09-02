@@ -14,6 +14,8 @@ tags:
 > People tend to use what they are already comfortable with
 
 
+Many people skip over sponsored results, while some use them as "the way it should be done"
+
 
 
 
