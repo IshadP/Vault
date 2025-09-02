@@ -1,10 +1,10 @@
 ---
 title: Templates
-draft: false
+draft: true
 date: 2025-08-31
-view: read
+current view: read
 tags:
-- #index
+  -
 ---
 
 %% Begin Waypoint %%
