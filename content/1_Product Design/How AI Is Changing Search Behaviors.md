@@ -8,5 +8,10 @@ tags:
   - UX
   - Psycology
 ---
--> Information searching habits are sticky.
+-> **Information searching habits are sticky.**
+
+> Reliable way to find info = nearly instinctive
+
+
+
 
