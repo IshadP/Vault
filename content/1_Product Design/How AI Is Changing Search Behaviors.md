@@ -16,7 +16,10 @@ tags:
 
 Many people skip over sponsored results, while some use them as "the way it should be done"
 
+## How AI changes this
 
+1. AI offers shortcut to time consuming and tedious task.
+2. 
 
 
 
