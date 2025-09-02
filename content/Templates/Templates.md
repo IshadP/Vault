@@ -10,4 +10,4 @@ tags:
 %% Begin Waypoint %%
 - [[Article]]
 - [[Code]]
-- [[[Code]] End Waypoint %%
+%% End Waypoint %%
