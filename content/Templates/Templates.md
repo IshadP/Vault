@@ -2,7 +2,7 @@
 title: Templates
 draft: true
 date: 2025-08-31
-current view: read
+ObsidianUImode: preview
 tags:
   -
 ---
