@@ -4,5 +4,6 @@ draft: false
 date: 2025-09-02
 ObsidianUIMode: preview
 tags:
+  - "#Artificial_Intelligence"
 ---
 
