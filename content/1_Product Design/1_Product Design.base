@@ -7,3 +7,5 @@ views:
     order:
       - file.name
       - tags
+  - type: cards
+    name: View
