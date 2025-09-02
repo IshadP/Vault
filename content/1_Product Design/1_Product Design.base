@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("1_Product Design")
+views:
+  - type: table
+    name: Table
