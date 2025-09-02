@@ -6,7 +6,6 @@ view: read
 tags:
   - Practicals
   - java
-  - cybersecurity
 ---
 ```Java
 // paste code here
