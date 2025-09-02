@@ -4,7 +4,9 @@ draft: false
 date: 2025-09-02
 view: read
 tags:
-  - "#AES"
+  - Practicals
+  - java
+  - cybersecurity
 ---
 ```Java
 // paste code here
