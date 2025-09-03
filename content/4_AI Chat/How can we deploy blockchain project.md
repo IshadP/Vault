@@ -4,7 +4,8 @@ draft: false
 date: 2025-09-03
 ObsidianUIMode: preview
 tags:
-- ChatGPT
+  - ChatGPT
+  - Mega_Project
 ---
 >Context:
 We are builiding a blockchain based supply chain platform for our mega project in college 7th sem. We will deploy it using vercel. It's written in Nextjs + node + hardhat. It has 3 major roles, Manufacturer, distributor & Retailer; and a miinor role of consumer. We will have to demonstrate the use of blockchain in project.
