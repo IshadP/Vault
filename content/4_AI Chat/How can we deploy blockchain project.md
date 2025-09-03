@@ -67,3 +67,5 @@ Yes. That works as a decentralization demo. Mechanics:
 This requires using a proper client (Geth, Besu, or Hardhat multi-node mode), not just Hardhat’s default single-node dev chain.
 
 Do you want a step-by-step guide for setting up a **4-node private Ethereum network** for this demo?
+
+
