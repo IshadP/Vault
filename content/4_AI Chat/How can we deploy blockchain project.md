@@ -8,7 +8,7 @@ tags:
   - Mega_Project
 ---
 >Context:
-We are builiding a blockchain based supply chain platform for our mega project in college 7th sem. We will deploy it using vercel. It's written in Nextjs + node + hardhat. It has 3 major roles, Manufacturer, distributor & Retailer; and a miinor role of consumer. We will have to demonstrate the use of blockchain in project.
+We are building a blockchain based supply chain platform for our mega project in college 7th sem. We will deploy it using vercel. It's written in Nextjs + node + hardhat. It has 3 major roles, Manufacturer, distributor & Retailer; and a miinor role of consumer. We will have to demonstrate the use of blockchain in project.
 How can we demostrate benefits of using blockchain, if we run project locally and its deployed using vercel
 
 You can’t show blockchain’s full value just by saying “it’s decentralized” when everything is local or hosted on Vercel. You need demonstrations that reveal blockchain’s distinct advantages over a normal database:
