@@ -68,4 +68,5 @@ This requires using a proper client (Geth, Besu, or Hardhat multi-node mode), no
 
 Do you want a step-by-step guide for setting up a **4-node private Ethereum network** for this demo?
 
+---
 
