@@ -1,5 +1,4 @@
 ---
-ObsidianUIMode: preview
 title: How AI Is Changing Search Behaviors
 draft: false
 date: 2025-09-02
@@ -7,6 +6,7 @@ tags:
   - "#Artificial_Intelligence"
   - UX
   - Psycology
+ObsidianUIMode: preview
 ---
 -> **Information searching habits are sticky.**
 	Reliable way to find info = nearly instinctive
