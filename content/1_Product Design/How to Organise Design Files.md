@@ -10,3 +10,6 @@ tags:
 # Components
 ## Title Component
 Make clear components to ensure that people know that is going on in the project
+
+## Header
+Make clear headers to help identify section in figma file
