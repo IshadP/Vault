@@ -8,3 +8,4 @@ tags:
 ---
 
 ## Title Component
+Make clear components to ensure that people know that is going on in the project
