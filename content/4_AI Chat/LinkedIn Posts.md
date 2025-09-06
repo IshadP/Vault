@@ -7,6 +7,7 @@ tags:
 - LinkedIn
 ---
 
+### 6/9/25
 What once felt like a lonely road of being a self-taught designer with no clear guidance has now turned into recognition with 3 UX awards.
 
 Finding a good mentor as a self-taught designer is never easy, but joining **UX Gym** completely shifted my perspective. The program didn’t just refine my skills, it reshaped how I think about product, strategy, and execution.
@@ -38,3 +39,6 @@ Ofcourse, this wouldn't be possible without my peers and friends, who helped me 
 
 
 I thank {names} for orgnaising sucg a educationla program for students and professional alike.
+
+---
+
