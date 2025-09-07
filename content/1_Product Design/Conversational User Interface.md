@@ -15,4 +15,4 @@ It is a platform that allows communication in plain simple language, whether spo
 ## Text Based CI
 They process NLP to understand context, intent and sentiments. They use complex methods to imitate emotional intelligence and usually have multi turn conversation while retaining context.
 ## Voice Based CI
-They are completely Hands free
+They are completely hands free and can be done while performing various tasks such as driving, cooking and exercising.
