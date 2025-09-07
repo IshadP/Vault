@@ -18,4 +18,9 @@ They process NLP to understand context, intent and sentiments. They use complex 
 They are completely hands free and can be done while performing various tasks such as driving, cooking and exercising. These are accessible, but demand audio first interaction. 
 ### Challenges
 1. Struggle to maintain complex thoughts of a multi step conversation
-2. Privacy focused enviorment can 
+2. Privacy focused environment are inappropriate for verbal communication.
+3. Tasks that need visual selection or have range of option
+4. In a Noisy Setting, this may completely fail.
+
+## How to make Conversational experience great?
+### Context aware designs:
