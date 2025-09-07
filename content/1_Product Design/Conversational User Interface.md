@@ -24,3 +24,8 @@ They are completely hands free and can be done while performing various tasks su
 
 ## How to make Conversational experience great?
 ### Context aware designs:
+Create systems which are aware and responsive to user context. These can be based on user data collected from various resources.
+### Emotional Intelligence:
+Recognise voice, pitch, tone to understand user's emotions and do sentiment analysis, thus enhancing significance of interaction.
+### Clear Objectives and Constraints
+Avoid designing a universal Agent and define limits and use cases clearly.
