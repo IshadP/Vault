@@ -28,4 +28,5 @@ Create systems which are aware and responsive to user context. These can be base
 ### Emotional Intelligence:
 Recognise voice, pitch, tone to understand user's emotions and do sentiment analysis, thus enhancing significance of interaction.
 ### Clear Objectives and Constraints
-Avoid designing a universal Agent and define limits and use cases clearly.
+Avoid designing a universal agent and define limits and use cases clearly.
+
