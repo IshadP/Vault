@@ -16,6 +16,8 @@ It is a platform that allows communication in plain simple language, whether spo
 They process NLP to understand context, intent and sentiments. They use complex methods to imitate emotional intelligence and usually have multi turn conversation while retaining context.
 ## Voice Based CI
 They are completely hands free and can be done while performing various tasks such as driving, cooking and exercising. These are accessible, but demand audio first interaction. 
+## Multimodal conversational systems
+Traditional text-based and voice-only systems are being replaced by multimodal interfaces that integrate voice, text, visual elements, and even gesture recognition, which create more flexible and intuitive user experiences and signify the future of technology.
 ### Challenges
 1. Struggle to maintain complex thoughts of a multi step conversation
 2. Privacy focused environment are inappropriate for verbal communication.
