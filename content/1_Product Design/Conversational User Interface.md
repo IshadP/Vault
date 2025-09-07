@@ -29,4 +29,7 @@ Create systems which are aware and responsive to user context. These can be base
 Recognise voice, pitch, tone to understand user's emotions and do sentiment analysis, thus enhancing significance of interaction.
 ### Clear Objectives and Constraints
 Avoid designing a universal agent and define limits and use cases clearly.
-
+### Prioritize transparency and control
+Develop feedback mechanism to improve experience of UI. The goal is to make user trust the LLM and generate confidence.
+### Create Accessible Design
+Note the user's state when he / she might have conversation and design the LLM to be tailored to that. For ex: While cooking, one might not be able to touch the device, thus [[]]
