@@ -4,7 +4,8 @@ draft: false
 date: 2025-09-09
 obsidianUIMode: preview
 tags:
-- 
+  - Practicals
+  - java
 ---
 ```Java
 import java.util.*;
