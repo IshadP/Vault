@@ -47,4 +47,4 @@ public class DiffieHellman{
 
 ```
 ##### Output:
-![[Pasted image 20250909073922.png]]
+![[Pasted image 20250909111559.png]]
