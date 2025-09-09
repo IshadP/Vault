@@ -7,6 +7,8 @@ tags:
   - Practicals
   - java
 ---
+
+
 ```Java
 import java.util.*;
 
@@ -30,6 +32,8 @@ public class DiffieHellman{
     }
     public static void main(String[] args) {
         long publivg, publivp, privatea, privateb; 
+        System.out.println("Ishad Pande | 25 | CSE");
+         System.out.println("-----------------------------------");
 
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the public number with user A(G)");
@@ -44,7 +48,6 @@ public class DiffieHellman{
         DiffieHell(publivg, publivp, privatea, privateb);
     }
 }
-
 ```
 ##### Output:
 ![[Pasted image 20250909111559.png]]
