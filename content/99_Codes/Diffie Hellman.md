@@ -46,3 +46,4 @@ public class DiffieHellman{
 
 ```
 ##### Output:
+![[Pasted image 20250909073922.png]]
