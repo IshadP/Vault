@@ -362,3 +362,4 @@ public class BlowfishComplete{
 }
 ```
 ##### Output:
+![[Pasted image 20250909132814.png]]
