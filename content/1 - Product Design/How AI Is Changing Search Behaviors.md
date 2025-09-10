@@ -31,7 +31,7 @@ Many people skip over sponsored results, while some use them as "the way it shou
 
 **While AI may be obvious in tech world, non tech workers are still adopting or don't know about it**
 
-Discoverability is still a big challenge for AI
+Discoverability is still a big challenge for AI.
 
 ## Learning
 1. If we can integrate AI into common search experience people might be more satisfied!
