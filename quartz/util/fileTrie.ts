@@ -29,7 +29,7 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
 
   get displayName(): string {
     const nonIndexTitle = this.data?.title === "index" ? undefined : this.data?.title
-    const clean = (name?: string) => name?.replace(/^\d+_/, "") ?? ""
+    const clean = (name?: string) => name?.replace(/^\d+\s*-\s*/, "") ?? ""
   
   // Apply cleaning to each fallback option, but only if they have content
   const cleanedTitle = nonIndexTitle ? clean(nonIndexTitle) : undefined
