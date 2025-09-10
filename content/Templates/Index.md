@@ -24,6 +24,5 @@ tags:
 `;
 
 tR += frontmatter;   // write frontmatter
-tR += tp.file.cursor(); 
-tR += "%% " + "Waypoint" + " %%"// teleport cursor here
+tR += "%% " + "Waypoint" + " %%";// teleport cursor here
 %>
