@@ -29,9 +29,20 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
 
   get displayName(): string {
     const nonIndexTitle = this.data?.title === "index" ? undefined : this.data?.title
-    return (
-      this.displayNameOverride ?? nonIndexTitle ?? this.fileSegmentHint ?? this.slugSegment ?? ""
-    )
+    const clean = (name?: string) => name?.replace(/^\d+_/, "") ?? ""
+  
+  // Apply cleaning to each fallback option, but only if they have content
+  const cleanedTitle = nonIndexTitle ? clean(nonIndexTitle) : undefined
+  const cleanedHint = this.fileSegmentHint ? clean(this.fileSegmentHint) : undefined
+  const cleanedSlug = this.slugSegment ? clean(this.slugSegment) : undefined
+  
+  return (
+    this.displayNameOverride ?? 
+    cleanedTitle ?? 
+    cleanedHint ?? 
+    cleanedSlug ?? 
+    ""
+  )
   }
 
   set displayName(name: string) {

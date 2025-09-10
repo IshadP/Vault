@@ -29,7 +29,7 @@ interface BreadcrumbOptions {
 }
 
 const defaultOptions: BreadcrumbOptions = {
-  spacerSymbol: "❯",
+  spacerSymbol: "/",
   rootName: "Home",
   resolveFrontmatterTitle: true,
   showCurrentPage: true,
@@ -37,7 +37,7 @@ const defaultOptions: BreadcrumbOptions = {
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
   return {
-    displayName: displayName.replaceAll("-", " "),
+    displayName: displayName.replaceAll(/^\d+\s*-\s*/, ""),
     path: resolveRelative(baseSlug, currentSlug),
   }
 }
