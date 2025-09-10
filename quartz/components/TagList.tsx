@@ -46,8 +46,11 @@ TagList.css = `
 }
 
 a.internal.tag-link {
-  border-radius: 8px;
-  background-color: var(--highlight);
+  border-radius: 9999px;
+  border: 1px solid var(--dark);
+  color: var(--dark);
+  font-size: 0.85rem;
+  background-color: var(--light);
   padding: 0.2rem 0.4rem;
   margin: 0 0.1rem;
 }
