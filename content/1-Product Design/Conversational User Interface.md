@@ -49,6 +49,12 @@ User goals, preferences and behaviour change when conversational agent is presen
 ### Optimise for Mobile
 Make sure to design for smaller screens and touch interactions and keep messages short and to the point.
 
+> [!Tip] Testing > Deploying
+> Always test your chatbot UX with real users before deployment
+
+
+
+
 ---
 
 ## References:
