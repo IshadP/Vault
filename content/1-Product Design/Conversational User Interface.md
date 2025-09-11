@@ -28,7 +28,7 @@ Traditional text-based and voice-only systems are being replaced by multimodal i
 ### Identify Business Goals
 Try to answer "why do we need a chatbot?" & how will it help us create better business.
 ### Context aware designs:
-Create systems which are aware and responsive to user context. These can be based on user data collected from various resources.
+Create systems which are aware and responsive to user context. These can be based on user data collected from various resources. Make sure you maintain consistency 
 ### Focus on Natural Language Response
 Keep the conversation human friendly and ensure questions are answered like human executive would, feeling more inline with store experience.
 ### Emotional Intelligence:
