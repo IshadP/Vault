@@ -34,7 +34,7 @@ Keep the conversation human friendly and ensure questions are answered like huma
 ### Emotional Intelligence:
 Recognise voice, pitch, tone to understand user's emotions and do sentiment analysis, thus enhancing significance of interaction. Keep messages concise clear, easy to understand and incorporate traits of brand.
 ### Clear Objectives and Constraints
-Avoid designing a universal agent and define limits and use cases clearly. Have a clear purpose and list of task that AI chat bot should accomplish.
+Avoid designing a universal agent and define limits and use cases clearly. Have a clear purpose and list of task that AI chat bot should accomplish. Avoid Jargon at all costs.
 ### Prioritize transparency and control
 Develop feedback mechanism to improve experience of UI. The goal is to make user trust the LLM and generate confidence.
 ### Create Accessible Design
