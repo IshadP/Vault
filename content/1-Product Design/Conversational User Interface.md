@@ -43,7 +43,7 @@ User goals, preferences and behaviour change when conversational agent is presen
 2. Allow undo, redo and cancellation.
 3. Provie help Assistance and Suggestions.
 ### Optimise for Mobile
-
+Make sure to design for smaller screens and touch interactions and keep messages short and to the point.
 
 ---
 
