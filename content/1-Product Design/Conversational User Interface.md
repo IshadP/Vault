@@ -42,9 +42,11 @@ User goals, preferences and behaviour change when conversational agent is presen
 1. Clear error handling and error messages
 2. Allow undo, redo and cancellation.
 3. Provie help Assistance and Suggestions.
+### Optimise for Mobile
 
 ---
 
 ## References:
 
 https://research.aimultiple.com/conversational-ui/
+https://www.xicom.biz/blog/conversational-user-interfaces/
