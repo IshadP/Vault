@@ -38,7 +38,10 @@ Note the user's state when he / she might have conversation and design the LLM t
 ### Enhanced User Engagement
 Simulate human-like interaction, creating a more natural environment.
 ### Pay Attention to User needs
-User goals, preferences and behaviour change when conversational agent is present. 
+User goals, preferences and behaviour change when conversational agent is present. Certain norms to follow are:
+1. Clear error handling and error messages
+2. Allow undo, redo and cancellation.
+3. Provie help Assistance and Suggestions.
 
 ---
 
