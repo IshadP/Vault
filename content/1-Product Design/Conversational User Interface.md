@@ -37,6 +37,8 @@ Develop feedback mechanism to improve experience of UI. The goal is to make user
 Note the user's state when he / she might have conversation and design the LLM to be tailored to that. For ex: While cooking, one might not be able to touch the device, thus[[Conversational User Interface#Voice Based CI | Voice Based UI]] will me more useful.
 ### Enhanced User Engagement
 Simulate human-like interaction, creating a more natural environment.
+### Pay Attention to User needs
+User goals, preferences and behaviour change when conversational agent is present. 
 
 ---
 
