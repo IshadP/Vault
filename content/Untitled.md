@@ -1,0 +1,15 @@
+|Feature / Version|**Hadoop 1.0**|**Hadoop 2.0 (YARN)**|**Hadoop 3.0**|
+|---|---|---|---|
+|**Release Period**|~2011|~2012–2013|~2017|
+|**Architecture**|Monolithic (JobTracker + TaskTracker)|YARN (ResourceManager + NodeManager)|Enhanced YARN + New HDFS features|
+|**Resource Management**|JobTracker handled both resource mgmt & scheduling|YARN separates ResourceManager (resources) & ApplicationMaster (per app)|Same as Hadoop 2.0 but more efficient, with timeline service v2|
+|**Scalability**|Limited (up to a few thousand nodes)|Higher scalability (10,000+ nodes)|Even higher scalability and better cluster utilization|
+|**Fault Tolerance**|Single JobTracker = single point of failure|ResourceManager HA support|HDFS NameNode supports **erasure coding**, reducing storage overhead by ~50%|
+|**HDFS Storage**|Only replication (default 3 copies)|Replication|Replication + **Erasure Coding** (more space-efficient)|
+|**Supported Applications**|Only MapReduce|MapReduce + others (Spark, Tez, Giraph, etc.)|Same as Hadoop 2.0 with **improved support for ML, streaming, and cloud**|
+|**YARN**|Not available|Introduced, decouples resource mgmt from computation|Enhanced YARN with opportunistic containers, distributed scheduling|
+|**Backward Compatibility**|Limited|Compatible with Hadoop 1 apps|Compatible with Hadoop 2, with some upgrades needed|
+|**Cluster Utilization**|Lower|Improved with YARN|Even better with container re-use, intra-node balancing|
+|**Storage Efficiency**|High overhead due to 3x replication|Same as Hadoop 1|Improved: **erasure coding saves ~50% storage**|
+|**Security**|Basic ACLs|Kerberos authentication|Kerberos + enhanced TLS/SSL, more enterprise security features|
+|**Performance**|Slower due to single JobTracker bottleneck|Improved scheduling and resource allocation|Faster job execution, better utilization, lower storage costs|
