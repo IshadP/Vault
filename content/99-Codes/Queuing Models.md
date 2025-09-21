@@ -46,4 +46,4 @@ d: Capacity of system
 f: The system discipline
 
 so M / M / 1: N / FCFS means:
-Markovi
+Markovian (Poisson Distirbut)
