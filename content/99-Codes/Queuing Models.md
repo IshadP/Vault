@@ -103,7 +103,7 @@ $$
 11. P (w > 0) = System is busy = ρ
 12. Idle time  =  (1− ρ)
 13. Probability distibution of waiting time  $$P (w) dw =
-\mu\rho(1-\rho)e^-\rho$$
+\mu\rho(1-\rho)e^{-\mu w (1-\rho)}$$
 14. Probability that a consumer has to wait on arrival = (P (w > 0) = ρ
 15. Probability that a new arrival stays in the system $$
 1()( ρ) , 1( ρ) dvvP dv$$
