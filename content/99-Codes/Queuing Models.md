@@ -83,7 +83,7 @@ Formulae used
 4. Probability that the system is empty $$P_0 = (1 - ρ )$$
 5. Probability that there are 'n' units in the system $$P_n =  ρ^n P$$
 n
-6. Average number of units in the system $$ E (n) = 1( ρ)
+6. Average number of units in the system $$ E (n) = ρ/(1-ρ)
 ρ
 − or = λ−µ )(
 λ
