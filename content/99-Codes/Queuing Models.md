@@ -40,5 +40,10 @@ A / B / S : ( d / f )
 
 A: Arrival pattern of units
 B: The probability distribution of service time of individual actually being served.
-S: Number of serive channels
+S: Number of service channels
 
+d: Capacity of system
+f: The system discipline
+
+so M / M / 1: N / FCFS means:
+Markovi
