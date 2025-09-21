@@ -86,10 +86,7 @@ n
 6. Average number of units in the system $$ E (n) = ρ/(1-ρ)
 \; or = λ/(λ−µ) = L_q + λ/µ
 $$
-7. Average number of units in the waiting line $$ E_L = \rho^2/(1-ρ )()
-ρ2 2
-λ−µµ
-λ = −
+7. Average number of units in the waiting line $$ E_L = \rho^2/(1-ρ )\ = \lambda^2 /\mu(\mu-\lambda)
 $$
 8. Average waiting length (mean time in the system) = E (L / L > 0)
 $$= 1( ρ)
