@@ -117,5 +117,7 @@ $$p_n = (1-\rho)\rho^n/(1-\rho^{N+1})$$ $$for\ all\ n=0,1,2 ...N$$
 Average queue length:
 $$E(n) = \rho[1-(1+N)\rho^N+N\rho^{N+1}]/(1-\rho)(1-\rho^{N+1})$$
 this simplifies to:
-$$ p_0*
+$$ p_0*\sum_{n=0}^Nn*\rho^n$$
+Average length of waiting line
+$$ E(L) = [1-N\rho^{N+1}+(N-1)]
 
