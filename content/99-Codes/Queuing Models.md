@@ -88,14 +88,7 @@ $$
 7. Average number of units in the waiting line $$ E_L = \rho^2/(1-ρ )\ = \lambda^2 /\mu(\mu-\lambda)
 $$
 8. Average waiting length (mean time in the system) = E (L / L > 0)
-$$= 1( ρ)
-1
-)(
-1
-− = λ−µ
-= λ = µ
-+
-L wE 1 )(
+$$= 1/(\mu - \lambda)\ = 1/(1-\rho)\\
 $$
 9. Average length of waiting line with the condition that it is always greater than zero
 $$= 
