@@ -85,8 +85,7 @@ Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capa
 6. Average number of units in the system $$ E (n) = ρ/(1-ρ)
 \; or = λ/(λ−µ) = L_q + λ/µ
 $$
-7. Average number of units in the waiting line $$ E_L = \rho^2/(1-ρ )\ = \lambda^2 /\mu(\mu-\lambda)
-$$
+7. Average number of units in the waiting line $$ E_L = \rho^2/(1-ρ )\ = \lambda^2 /\mu(\mu-\lambda)$$
 8. Average waiting length (mean time in the system) = E (L / L > 0)
 $$= 1/(\mu - \lambda)\ = 1/(1-\rho)\\
 \ = \ E(w) + 1/\mu = L/\lambda
