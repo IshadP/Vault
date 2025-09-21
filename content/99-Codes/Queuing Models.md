@@ -58,7 +58,7 @@ Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capa
 | **w**     |                                                     |
 | **v**     |                                                     |
 | **n**     |                                                     |
-|           |                                                     |
+| Pn (t)    |                                                     |
 
 
 
