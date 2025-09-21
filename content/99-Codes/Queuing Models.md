@@ -98,18 +98,12 @@ $$
 $$
 = L_q/\lambda \ = \ \lambda/\mu(\mu - \lambda)
 $$
-10. Average time an arrival spends in the system $$E (v) = )0/( )(
-1
-1( ρ)
-1
->=
-λ−µ = −µ
-wwE
+10. Average time an arrival spends in the system $$E (v) = 1/\mu(1-\rho) = 1/(\mu - \lambda)
 $$
 11. P (w > 0) = System is busy = ρ
-12. Idle time $$ (1− ρ)$$
+12. Idle time  =  (1− ρ)
 13. Probability distibution of waiting time  $$P (w) dw =
-)1( ρ 1( ρ) ρ−µ− −µ w e$$
+\mu\rho(1-\rho)e^-\rho$$
 14. Probability that a consumer has to wait on arrival = (P (w > 0) = ρ
 15. Probability that a new arrival stays in the system $$
 1()( ρ) , 1( ρ) dvvP dv$$
