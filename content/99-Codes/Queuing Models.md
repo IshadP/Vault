@@ -123,5 +123,9 @@ $$ E(L) = [1-N\rho^{N+1}+(N-1)\rho^N]\rho^2/(1-\rho)(1-\rho^{N+1})$$
 Waiting time in system:
 $$E(v) = E(n)/\lambda'$$
 $$where\ \lambda'=\lambda(1-\rho_N)$$
-Waiting time in system
+Waiting time in system:
+$$ E(w) = E(L)/\lambda'$$
+---
+
+Thank you!
 
