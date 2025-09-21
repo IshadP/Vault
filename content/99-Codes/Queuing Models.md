@@ -90,10 +90,11 @@ n
  = Lq + µ
 λ
 $$
-7. Average number of units in the waiting line = EL = 1( ρ )()
+7. Average number of units in the waiting line $$ EL = 1( ρ )()
 ρ2 2
 λ−µµ
 λ = −
+$$
 8. Average waiting length (mean time in the system) = E (L / L > 0)
 = 1( ρ)
 1
