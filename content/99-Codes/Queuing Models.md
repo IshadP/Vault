@@ -81,8 +81,7 @@ Formulae used
 2. Average number of units served per unit of time = µ
 3. Traffic intensity or utility ratio $$ρ=λ/µ$$ $$condition : µ > λ $$
 4. Probability that the system is empty $$P_0 = (1 - ρ )$$
-5. Probability that there are 'n' units in the system $$P_n =  ρ^n P$$
-n
+5. Probability that there are 'n' units in the system $$P_n =  ρ^n P_o$$
 6. Average number of units in the system $$ E (n) = ρ/(1-ρ)
 \; or = λ/(λ−µ) = L_q + λ/µ
 $$
