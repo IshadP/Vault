@@ -109,4 +109,8 @@ $$
 P (v) dv =
 \mu(1-\rho)e^{-\mu w (1-\rho)}dv$$
 ---
-## Finite Queue: M/M/1 : N ?
+## Finite Queue: M/M/1 : N/FCFS
+
+Various equation for this model are:
+$$ p_0 = \ (1-\rho) / (1 - \rho^{N+1})$$$$ where\ \rho=\lambda/\mu\ and\ \lambda/\mu > 1\ is\ allowed$$
+
