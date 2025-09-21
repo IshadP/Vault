@@ -25,3 +25,20 @@ when rate of arrival < rate of service but both are constant. *A steady state sy
 >[!info] We always reach steady state
 >A system will reach steady state at  t → ∞ if currently rate of arrival is > rate of service
 
+### Transient State:
+In this state, the operation characteristic of system are dependent on time.
+
+### Explosive state:
+Here arrival rate >> service rate. Theoretically, queue length will increase with time and can also tend to ∞.
+
+---
+
+## Designation of Queue
+
+M / M / 1 : N / FCFS
+A / B / S : ( d / f )
+
+A: Arrival pattern of units
+B: The probability distribution of service time of individual actually being served.
+S: Number of serive channels
+
