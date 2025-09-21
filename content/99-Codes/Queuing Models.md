@@ -22,5 +22,6 @@ tags:
 ### Steady State: 
 when rate of arrival < rate of service but both are constant. *A steady state system is also independent of time.* Probability of finding a particular length of queue is same!
 
->[!note] We always reach steady state
->
+>[!info] We always reach steady state
+>A system will reach steady state at  t → ∞ if currently rate of arrival is > rate of service
+
