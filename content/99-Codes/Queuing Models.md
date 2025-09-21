@@ -93,12 +93,10 @@ $$= 1/(\mu - \lambda)\ = 1/(1-\rho)\\
 $$
 9. Average length of waiting line with the condition that it is always greater than zero
 $$= 
-2 2 1( ρ )()
-ρ )( λ−µ
-λ = − nV =
-= λ−µµ )(
-λ = λ
-Lq
+V(n)\ = \ \rho/(1-\rho)^2\ = \lambda/(\mu - \lambda)^2
+$$
+$$
+= L_q/\lambda \ = \ \lambda/\mu(\mu - \lambda)
 $$
 10. Average time an arrival spends in the system $$E (v) = )0/( )(
 1
