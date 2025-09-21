@@ -86,7 +86,7 @@ n
 6. Average number of units in the system $$ E (n) = ρ/(1-ρ)
 \; or = λ/(λ−µ) = L_q + λ/µ
 $$
-7. Average number of units in the waiting line $$ EL = 1( ρ )()
+7. Average number of units in the waiting line $$ E_L = \rho^2/(1-ρ )()
 ρ2 2
 λ−µµ
 λ = −
