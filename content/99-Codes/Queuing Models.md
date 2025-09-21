@@ -56,6 +56,8 @@ Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capa
 | **X**     | Inter arrival time between two successive customers |
 | **Y**     |                                                     |
 | **w**     |                                                     |
+| **v**     |                                                     |
+| ****      |                                                     |
 
 
 
