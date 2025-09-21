@@ -104,8 +104,7 @@ $$
 13. Probability distibution of waiting time  $$P (w) dw =
 \mu\rho(1-\rho)e^{-\mu w (1-\rho)}$$
 14. Probability that a consumer has to wait on arrival = (P (w > 0) = ρ
-15. Probability that a new arrival stays in the system $$
-P (v) dv =
+15. Probability that a new arrival stays in the system $$P (v) dv =
 \mu(1-\rho)e^{-\mu w (1-\rho)}dv$$
 ---
 ## Finite Queue: M/M/1 : N/FCFS
