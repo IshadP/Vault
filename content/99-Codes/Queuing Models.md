@@ -113,4 +113,4 @@ P (v) dv =
 
 Various equation for this model are:
 $$ p_0 = \ (1-\rho) / (1 - \rho^{N+1})$$$$ where\ \rho=\lambda/\mu\ and\ \lambda/\mu > 1\ is\ allowed$$
-$$
+$$pn = )
