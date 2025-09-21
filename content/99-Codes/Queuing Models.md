@@ -80,15 +80,16 @@ Formulae used
 1. Average number of arrivals per unit of time = λ
 2. Average number of units served per unit of time = µ
 3. Traffic intensity or utility ratio $$ρ=λ/µ$$ $$condition : µ > λ $$
-4. Probability that the system is empty = $$P_0 = (1 - ρ )$$
-5. Probability that there are ëní units in the system = Pn = 0 ρ P
+4. Probability that the system is empty $$P_0 = (1 - ρ )$$
+5. Probability that there are 'n' units in the system $$Pn = 0 ρ P$$
 n
-6. Average number of units in the system = E (n) = 1( ρ)
+6. Average number of units in the system $$ E (n) = 1( ρ)
 ρ
 − or = λ−µ )(
 λ
  = Lq + µ
 λ
+$$
 7. Average number of units in the waiting line = EL = 1( ρ )()
 ρ2 2
 λ−µµ
