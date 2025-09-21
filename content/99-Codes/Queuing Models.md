@@ -115,4 +115,4 @@ Various equation for this model are:
 $$ p_0 = \ (1-\rho) / (1 - \rho^{N+1})$$$$ where\ \rho=\lambda/\mu\ and\ \lambda/\mu > 1\ is\ allowed$$
 $$p_n = (1-\rho)\rho^n/(1-\rho^{N+1})$$ $$for\ all\ n=0,1,2 ...N$$
 Average queue length:
-$$E(n)
+$$E(n) = \rho[1-1]
