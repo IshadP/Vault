@@ -81,7 +81,7 @@ Formulae used
 2. Average number of units served per unit of time = µ
 3. Traffic intensity or utility ratio $$ρ=λ/µ$$ $$condition : µ > λ $$
 4. Probability that the system is empty $$P_0 = (1 - ρ )$$
-5. Probability that there are 'n' units in the system $$Pn = 0 ρ P$$
+5. Probability that there are 'n' units in the system $$P_n =  ρ^n P$$
 n
 6. Average number of units in the system $$ E (n) = 1( ρ)
 ρ
@@ -96,7 +96,7 @@ $$
 λ = −
 $$
 8. Average waiting length (mean time in the system) = E (L / L > 0)
-= 1( ρ)
+$$= 1( ρ)
 1
 )(
 1
@@ -104,26 +104,28 @@ $$
 = λ = µ
 +
 L wE 1 )(
+$$
 9. Average length of waiting line with the condition that it is always greater than zero
-= 
+$$= 
 2 2 1( ρ )()
 ρ )( λ−µ
 λ = − nV =
 = λ−µµ )(
 λ = λ
 Lq
-Waiting Line Theory or Queuing Model 461
-10. Average time an arrival spends in the system = E (v) = )0/( )(
+$$
+10. Average time an arrival spends in the system $$E (v) = )0/( )(
 1
 1( ρ)
 1
 >=
 λ−µ = −µ
 wwE
+$$
 11. P (w > 0) = System is busy = ρ
-12. Idle time = 1( − ρ)
-13. Probability distibution of waiting time = P (w) dw =
-)1( ρ 1( ρ) ρ−µ− −µ w e
+12. Idle time $$ (1− ρ)$$
+13. Probability distibution of waiting time  $$P (w) dw =
+)1( ρ 1( ρ) ρ−µ− −µ w e$$
 14. Probability that a consumer has to wait on arrival = (P (w > 0) = ρ
-15. Probability that a new arrival stays in the system =
-1()( ρ) , 1( ρ) dvvP dv
+15. Probability that a new arrival stays in the system $$
+1()( ρ) , 1( ρ) dvvP dv$$
