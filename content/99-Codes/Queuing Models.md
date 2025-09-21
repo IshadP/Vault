@@ -89,7 +89,7 @@ $$
 $$
 8. Average waiting length (mean time in the system) = E (L / L > 0)
 $$= 1/(\mu - \lambda)\ = 1/(1-\rho)\\
-
+\ = 
 $$
 9. Average length of waiting line with the condition that it is always greater than zero
 $$= 
