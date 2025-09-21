@@ -80,7 +80,7 @@ Formulae used
 1. Average number of arrivals per unit of time = λ
 2. Average number of units served per unit of time = µ
 3. Traffic intensity or utility ratio $$ρ=λ/µ$$ $$condition : µ > λ $$
-4. Probability that the system is empty = $$P0 = (1 ñ ρ )
+4. Probability that the system is empty = $$P0 = (1 - ρ )$$
 5. Probability that there are ëní units in the system = Pn = 0 ρ P
 n
 6. Average number of units in the system = E (n) = 1( ρ)
