@@ -84,8 +84,7 @@ Formulae used
 5. Probability that there are 'n' units in the system $$P_n =  ρ^n P$$
 n
 6. Average number of units in the system $$ E (n) = ρ/(1-ρ)
-
- or = λ/(λ−µ) = L_q + λ/µ
+\; or = λ/(λ−µ) = L_q + λ/µ
 $$
 7. Average number of units in the waiting line $$ EL = 1( ρ )()
 ρ2 2
