@@ -51,15 +51,26 @@ Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capa
 ---
 ## Notations:
 
-| Notations  | Meanings                                            |
-| ---------- | --------------------------------------------------- |
-| **X**      | Inter arrival time between two successive customers |
-| **Y**      |                                                     |
-| **w**      |                                                     |
-| **v**      |                                                     |
-| **n**      |                                                     |
-| **Pn (t)** |                                                     |
-|            |                                                     |
+| Notations   | Meanings                                                                                                                                                       |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **X**       | Inter arrival time between two successive customers                                                                                                            |
+| **Y**       | The service time required by any customer                                                                                                                      |
+| **w**       | The waiting time for any customer before it is taken into service                                                                                              |
+| **v**       | Time spent by the customer in the system                                                                                                                       |
+| **n**       | Number of customers                                                                                                                                            |
+| **Pn (t)**  | Probability that 'n' customers arrive in the system in time 't'                                                                                                |
+| **Φn (t)**  | Probability that 'n' units are served in time 't'                                                                                                              |
+| **U (T)**   | Probability distribution of inter arrival time P (t ≤ T).                                                                                                      |
+| **V (T)**   | Probability distribution of servicing time P (t ≤ T).                                                                                                          |
+| **F (N)**   | Probability distribution of queue length at any time P (N ≤ n)                                                                                                 |
+| **En**      | Some state of the system at a time when there are 'n' units in the system                                                                                      |
+| **λn**      | Average number of customers arriving per unit of time, when there are already ëní units in<br>the system.                                                      |
+| **λ**       | Average number of customers arriving per unit of time.                                                                                                         |
+| **µn**      | Average number of customers being served per unit of time when there are already ëní units<br>in the system.                                                   |
+| **µ**       | Average number of customers being served per unit of time.                                                                                                     |
+| **1 / λ**   | Inter arrival time between two arrivals.                                                                                                                       |
+| **1 / µ**   | Service time between two units or customers.                                                                                                                   |
+| **ρ = λ/µ** | System utility or traffic intensity. **ρ = 3 / 8, it means<br>to say that out of 8 hours the system is used for 3 hours and (8 ñ 3 = 5) 5 hours the is idle.** |
 
-
+---
 
