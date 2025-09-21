@@ -76,7 +76,7 @@ Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capa
 
 ## Formula of  M/M/1: ∞/FCFS
 
-Formulae used
+### Formulae used:
 1. Average number of arrivals per unit of time = λ
 2. Average number of units served per unit of time = µ
 3. Traffic intensity or utility ratio $$ρ=λ/µ$$ $$condition : µ > λ $$
@@ -106,4 +106,6 @@ $$
 \mu\rho(1-\rho)e^{-\mu w (1-\rho)}$$
 14. Probability that a consumer has to wait on arrival = (P (w > 0) = ρ
 15. Probability that a new arrival stays in the system $$
-1()( ρ) , 1( ρ) dvvP dv$$
+P (v) dv =
+\mu(1-\rho)e^{-\mu w (1-\rho)}dv$$
+---
