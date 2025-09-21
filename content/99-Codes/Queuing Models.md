@@ -109,3 +109,4 @@ $$
 P (v) dv =
 \mu(1-\rho)e^{-\mu w (1-\rho)}dv$$
 ---
+## Finite Queue: M/M/1 : N ?
