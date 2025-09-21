@@ -82,13 +82,17 @@ Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capa
 3. Traffic intensity or utility ratio $$ρ=λ/µ$$ $$condition : µ > λ $$
 4. Probability that the system is empty $$P_0 = (1 - ρ )$$
 5. Probability that there are 'n' units in the system $$P_n =  ρ^n P_o$$
-6. Average number of units in the system $$ E (n) = ρ/(1-ρ)
+6. Average number of units in the system $$ 
+E (n) = ρ/(1-ρ)
 \; or = λ/(λ−µ) = L_q + λ/µ
 $$
 7. Average number of units in the waiting line 
-$$ E_L = \rho^2/(1-ρ )\ = \lambda^2 /\mu(\mu-\lambda)$$
+$$ 
+E_L = \rho^2/(1-ρ )\ = \lambda^2 /\mu(\mu-\lambda)
+$$
 8. Average waiting length (mean time in the system) = E (L / L > 0)
-$$= 1/(\mu - \lambda)\ = 1/(1-\rho)\\
+$$
+= 1/(\mu - \lambda)\ = 1/(1-\rho)\\
 \ = \ E(w) + 1/\mu = L/\lambda
 $$
 9. Average length of waiting line with the condition that it is always greater than zero
@@ -103,10 +107,14 @@ $$E (v) = 1/\mu(1-\rho) = 1/(\mu - \lambda)$$
 11. P (w > 0) = System is busy = ρ
 12. Idle time  =  (1− ρ)
 13. Probability distibution of waiting time  
-$$P (w) dw =\mu\rho(1-\rho)e^{-\mu w (1-\rho)}$$
+$$
+P (w) dw =\mu\rho(1-\rho)e^{-\mu w (1-\rho)}
+$$
 14. Probability that a consumer has to wait on arrival = (P (w > 0) = ρ
 15. Probability that a new arrival stays in the system 
-$$P (v) dv =\mu(1-\rho)e^{-\mu w (1-\rho)}dv$$
+$$
+P (v) dv =\mu(1-\rho)e^{-\mu w (1-\rho)}dv
+$$
 ---
 ## Finite Queue: M/M/1 : N/FCFS
 
