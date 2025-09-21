@@ -47,3 +47,8 @@ f: The system discipline
 
 so M / M / 1: N / FCFS means:
 Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capacity / First come first serve
+
+---
+## Notations:
+
+$$ X: inter arrival time between 
