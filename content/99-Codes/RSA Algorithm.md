@@ -11,7 +11,7 @@ tags:
 <% tp.file.cursor() %>
 
 ```Java
-// paste code here
+
 
 ```
 ##### Output:
