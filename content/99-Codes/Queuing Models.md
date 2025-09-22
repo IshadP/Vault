@@ -89,15 +89,18 @@ Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capa
 E (n) = ρ/(1-ρ)
 \; or = λ/(λ−µ) = L_q + λ/µ
 $$
+
 7. Average number of units in the waiting line 
 $$ 
 E_L = \rho^2/(1-ρ )\ = \lambda^2 /\mu(\mu-\lambda)
 $$
+
 8. Average waiting length (mean time in the system) = E (L / L > 0)
 $$
 = 1/(\mu - \lambda)\ = 1/(1-\rho)\\
 \ = \ E(w) + 1/\mu = L/\lambda
 $$
+
 9. Average length of waiting line with the condition that it is always greater than zero
 $$= 
 V(n)\ = \ \rho/(1-\rho)^2\ = \lambda/(\mu - \lambda)^2
@@ -105,8 +108,10 @@ $$
 $$
 = L_q/\lambda \ = \ \lambda/\mu(\mu - \lambda)
 $$
+
 10. Average time an arrival spends in the system 
 $$E (v) = 1/\mu(1-\rho) = 1/(\mu - \lambda)$$
+
 11. P (w > 0) = System is busy = ρ
 12. Idle time  =  (1− ρ)
 13. Probability distibution of waiting time  
