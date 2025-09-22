@@ -132,7 +132,7 @@ $$ where\ \rho=\lambda/\mu\ and\ \lambda/\mu > 1\ is\ allowed$$
 Probability of N customers in System
 
 
-$$p_n = (1-\rho)\rho^n/(1-\rho^{N+1})$$
+$$P_n = (1-\rho)\rho^n/(1-\rho^{N+1})$$
 
 $$ P_n = P_0*\rho^n$$
 
