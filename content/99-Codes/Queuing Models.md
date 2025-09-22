@@ -151,7 +151,7 @@ $$ L_s=\sum_{n=0}^Nn*P^n$$
 Similarily,  Average queue length:
 
 $$ L_q=\sum_{n=0}^N(n-1)*P^n$$
-Simplifying, we get
+Simplifying, we get,
 
 $$L_q = L_s - \lambda/\mu $$
 
