@@ -142,10 +142,6 @@ this simplifies to:
 
 $$ L_s=p_0*\sum_{n=0}^Nn*\rho^n$$
 
-Average length of waiting line
-
-$$ E(L) = [1-N\rho^{N+1}+(N-1)\rho^N]\rho^2/(1-\rho)(1-\rho^{N+1})$$
-
 Waiting time in system:
 
 $$E(v) = E(n)/\lambda'$$
