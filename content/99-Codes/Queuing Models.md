@@ -38,12 +38,14 @@ Here arrival rate >> service rate. Theoretically, queue length will increase wit
 M / M / 1 : N / FCFS
 A / B / S : ( d / f )
 
-A: Arrival pattern of units
-B: The probability distribution of service time of individual actually being served.
-S: Number of service channels
+A: Arrival pattern of units.
 
-d: Capacity of system
-f: The system discipline
+B: The probability distribution of service time of individual actually being served.
+
+S: Number of service channels.
+
+d: Capacity of system.
+f: The system discipline.
 
 so M / M / 1: N / FCFS means:
 Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capacity / First come first serve
