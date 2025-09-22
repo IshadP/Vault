@@ -132,7 +132,7 @@ $$for\ all\ n=0,1,2 ...N$$
 
 Length of Queue
 
-$$ $$
+$$L_q = L_s - \lambda/\mu $$
 
 Average queue length:
 
