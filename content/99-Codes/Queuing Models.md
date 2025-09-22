@@ -150,6 +150,8 @@ this simplifies to:
 
 $$ L_s=p_0*\sum_{n=0}^Nn*\rho^n$$
 
+$$ L_s=\sum_{n=0}^Nn*P^n$$
+
 Waiting time in system:
 
 $$W_s = L_s/\lambda$$
