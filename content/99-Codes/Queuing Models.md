@@ -136,7 +136,7 @@ $$E(n) = \rho[1-(1+N)\rho^N+N\rho^{N+1}]/(1-\rho)(1-\rho^{N+1})$$
 
 this simplifies to:
 
-$$ p_0*\sum_{n=0}^Nn*\rho^n$$
+$$ L_s=p_0*\sum_{n=0}^Nn*\rho^n$$
 
 Average length of waiting line
 
