@@ -85,31 +85,25 @@ Markovian (Poisson Distirbution) / Markovian / 1 service channels : fininte capa
 3. Traffic intensity or utility ratio $$ρ=λ/µ$$ $$condition : µ > λ $$
 4. Probability that the system is empty $$P_0 = (1 - ρ )$$
 5. Probability that there are 'n' units in the system $$P_n =  ρ^n P_o$$
-6. Average number of units in the system $$ 
-E (n) = ρ/(1-ρ)
-\; or = λ/(λ−µ) = L_q + λ/µ
-$$
+6. Average number of units in the system
 
-7. Average number of units in the waiting line 
-$$ 
-E_L = \rho^2/(1-ρ )\ = \lambda^2 /\mu(\mu-\lambda)
-$$
+$$ E (n) = ρ/(1-ρ)\; or = λ/(λ−µ) = L_q + λ/µ$$
+
+7. Average number of units in the waiting line:
+
+$$E_L = \rho^2/(1-ρ )\ = \lambda^2 /\mu(\mu-\lambda)$$
 
 8. Average waiting length (mean time in the system) = E (L / L > 0)
-$$
-= 1/(\mu - \lambda)\ = 1/(1-\rho)\\
-\ = \ E(w) + 1/\mu = L/\lambda
-$$
+$$= 1/(\mu - \lambda)\ = 1/(1-\rho)\ = \ E(w) + 1/\mu = L/\lambda$$
 
 9. Average length of waiting line with the condition that it is always greater than zero
-$$= 
-V(n)\ = \ \rho/(1-\rho)^2\ = \lambda/(\mu - \lambda)^2
-$$
-$$
-= L_q/\lambda \ = \ \lambda/\mu(\mu - \lambda)
-$$
+
+$$= V(n)\ = \ \rho/(1-\rho)^2\ = \lambda/(\mu - \lambda)^2$$
+
+$$= L_q/\lambda \ = \ \lambda/\mu(\mu - \lambda)$$
 
 10. Average time an arrival spends in the system 
+
 $$E (v) = 1/\mu(1-\rho) = 1/(\mu - \lambda)$$
 
 11. P (w > 0) = System is busy = ρ
