@@ -53,3 +53,4 @@ public class RSA{
 
 ```
 ##### Output:
+![[Pasted image 20250922233511.png]]
