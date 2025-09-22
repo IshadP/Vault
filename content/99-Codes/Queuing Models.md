@@ -142,7 +142,7 @@ Length of Queue
 
 $$L_q = L_s - \lambda/\mu $$
 
-Average queue length:
+Average customer's in system:
 
 $$L_s = \rho[1-(1+N)\rho^N+N\rho^{N+1}]/(1-\rho)(1-\rho^{N+1})$$
 
