@@ -7,9 +7,6 @@ tags:
   - java
   - Practicals
 ---
-
-<% tp.file.cursor() %>
-
 ```java
 
 public class RSA{
