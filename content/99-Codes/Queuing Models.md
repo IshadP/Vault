@@ -122,9 +122,14 @@ $$
 
 Various equation for this model are:
 
+Probability of 0 customers in system
+
+
 $$ p_0 = \ (1-\rho) / (1 - \rho^{N+1})$$
 
 $$ where\ \rho=\lambda/\mu\ and\ \lambda/\mu > 1\ is\ allowed$$
+
+Probability of N customers in System
 
 
 $$p_n = (1-\rho)\rho^n/(1-\rho^{N+1})$$ 
