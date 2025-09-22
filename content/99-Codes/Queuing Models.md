@@ -138,10 +138,6 @@ $$ P_n = P_0*\rho^n$$
 
 $$for\ all\ n=0,1,2 ...N$$
 
-Length of Queue
-
-$$L_q = L_s - \lambda/\mu $$
-
 Average customers in system:
 
 $$L_s = \rho[1-(1+N)\rho^N+N\rho^{N+1}]/(1-\rho)(1-\rho^{N+1})$$
@@ -155,6 +151,9 @@ $$ L_s=\sum_{n=0}^Nn*P^n$$
 Similarily,  Average queue length:
 
 $$ L_q=\sum_{n=0}^N(n-1)*P^n$$
+Simplifying, we get
+
+$$L_q = L_s - \lambda/\mu $$
 
 >[!note] Pay Attention to Problem
 >Customer in System = 1 + Length of queue
