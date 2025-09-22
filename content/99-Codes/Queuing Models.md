@@ -154,7 +154,7 @@ $$ L_s=\sum_{n=0}^Nn*P^n$$
 
 Similarily,  Average queue length:
 
-$$ L_s=\sum_{n=0}^N(n-1)*P^n$$
+$$ L_q=\sum_{n=0}^N(n-1)*P^n$$
 
 >[!note] Pay Attention to Problem
 >Customer in System = 1 + Length of queue
