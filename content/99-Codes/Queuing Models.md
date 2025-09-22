@@ -45,6 +45,7 @@ B: The probability distribution of service time of individual actually being ser
 S: Number of service channels.
 
 d: Capacity of system.
+
 f: The system discipline.
 
 so M / M / 1: N / FCFS means:
