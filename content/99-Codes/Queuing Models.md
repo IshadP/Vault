@@ -161,7 +161,7 @@ $$L_q = L_s - \lambda/\mu $$
 
 Waiting time in system:
 
-$$W_s = L_s/\lambda$$
+$$W_s = L_s/\lambda'$$
 
 $$where\ \lambda'=\lambda(1-\rho_N)$$
 
