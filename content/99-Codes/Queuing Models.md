@@ -136,7 +136,7 @@ $$L_q = L_s - \lambda/\mu $$
 
 Average queue length:
 
-$$E(n) = \rho[1-(1+N)\rho^N+N\rho^{N+1}]/(1-\rho)(1-\rho^{N+1})$$
+$$L_s = \rho[1-(1+N)\rho^N+N\rho^{N+1}]/(1-\rho)(1-\rho^{N+1})$$
 
 this simplifies to:
 
@@ -144,7 +144,7 @@ $$ L_s=p_0*\sum_{n=0}^Nn*\rho^n$$
 
 Waiting time in system:
 
-$$E(v) = E(n)/\lambda'$$
+$$W_s = L_s/\lambda$$
 
 $$where\ \lambda'=\lambda(1-\rho_N)$$
 
