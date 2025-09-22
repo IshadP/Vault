@@ -163,7 +163,7 @@ Waiting time in system:
 
 $$W_s = L_s/\lambda'$$
 
-$$where\ \lambda'=\lambda(1-\rho_N)$$
+$$where\ \lambda'=\lambda(1-P_N)$$
 
 Waiting time in system:
 
