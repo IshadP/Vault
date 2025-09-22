@@ -165,9 +165,9 @@ $$W_s = L_s/\lambda'$$
 
 $$where\ \lambda'=\lambda(1-P_N)$$
 
-Waiting time in system:
+Waiting time in queue:
 
-$$ E(w) = E(L)/\lambda'$$
+$$ W_q = W_s/\lambda'$$
 
 ---
 
