@@ -152,7 +152,13 @@ $$ L_s=p_0*\sum_{n=0}^Nn*\rho^n$$
 
 $$ L_s=\sum_{n=0}^Nn*P^n$$
 
-Similarily,  Average queue length
+Similarily,  Average queue length:
+
+$$ L_s=\sum_{n=0}^N(n-1)*P^n$$
+
+>[!note] Pay Attention to Problem
+>Customer in System = 1 + Length of queue
+
 
 Waiting time in system:
 
