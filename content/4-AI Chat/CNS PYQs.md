@@ -6,6 +6,8 @@ ObsidianUIMode: preview
 tags:
 - 
 ---
+> [!Note] Only unique questions given
+> Only question which are unique to each paper are given
 
 # Chapter 3
 
@@ -19,8 +21,6 @@ b) Elaborate on digital signatuer auth with suitable example
 
 ```Winter2024
 b) Explain Diffie-Hielman with suitable example
-
-a)
 ```
 # Chapter 4
 ``` Summer2025
@@ -29,4 +29,8 @@ b) Explain the Hash Message Authenctication Code in Brief.
 
 a) Exaplin in detail about X509 directory auth service.
 b) Dicuss main components of Kerberos with suitable diagram and their limitations.
+```
+
+```Winter2024
+
 ```
