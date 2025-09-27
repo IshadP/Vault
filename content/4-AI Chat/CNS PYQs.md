@@ -9,8 +9,7 @@ tags:
 
 # Chapter 3
 
-```
-//Summer2025
+```Summer2025
 a) Explain Euler's totient function with a suitable example
 b) Discus the chinese remainder therom and its advanteages
 
@@ -20,7 +19,7 @@ b) Elaborate on digital signatuer auth with suitable example
 
 
 # Chapter 4
-``` Summer 22025
+``` Summer2025
 a) What is the need of message integrity and auth? Explain the attacks idnetified during communication of network.
 b) Explain the Hash Message Authenctication Code in Brief.
 
