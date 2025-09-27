@@ -21,5 +21,9 @@ b) Elaborate on digital signatuer auth with suitable example
 
 # Chapter 4
 ``` Summer 22025
-a) What is the need of message integrity and auth? Explain the attacks ifien
+a) What is the need of message integrity and auth? Explain the attacks idnetified during communication of network.
+b) Explain the Hash Message Authenctication Code in Brief.
+
+a) Exaplin in detail about X509 directory auth service.
+b) Dicuss main components of Kerberos with suitable diagram and their limitations.
 ```
