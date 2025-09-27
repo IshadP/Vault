@@ -28,7 +28,10 @@ a) Perform RSA Encryption on P = 07, 9 = 17; plaintext : 10. Also write steps of
 b) Generate key K1 and K2 for  Alice and Bob using Diffie Hellman key exchange algo. Given n = 11; g = 7; x = 3; y = 6;
 ```
 ```Winter 2023
+b) Weakness of Diffie Heilman
 
+a) Elliptic Curve Cryptography
+b) 
 ```
 
 # Chapter 4
