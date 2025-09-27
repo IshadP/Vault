@@ -10,5 +10,16 @@ tags:
 # Chapter 3
 
 ```
-Q
+//Summer2025
+a) Explain Euler's totient function with a suitable example
+b) Discus the chinese remainder therom and its advanteages
+
+a) Explain RSA witht the alogrithm for encryption, decryption and key gen.
+b) Elaborate on digital signatuer auth with suitable example
+```
+
+
+# Chapter 4
+``` Summer 22025
+
 ```
