@@ -55,5 +55,7 @@ b) What do you mean by msg digest?
 b) Requriement of good hash function in detail. How much requriement can be achieved?
 ```
 ```Winter2023
+b) Hash function
 
+a) Authentication Requirement
 ```
