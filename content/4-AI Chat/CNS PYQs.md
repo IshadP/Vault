@@ -43,5 +43,6 @@ a) Explain MDS in detail
 b) Explain SHA with suitable example-
 ```
 ```Summer 2024
-
+a) types of MAC
+b) What do you mean by msg digest
 ```
