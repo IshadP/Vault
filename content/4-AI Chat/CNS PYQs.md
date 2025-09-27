@@ -32,5 +32,8 @@ b) Dicuss main components of Kerberos with suitable diagram and their limitation
 ```
 
 ```Winter2024
+b) Define MAC's and explain requirement of MAC's
 
+a) Explain MDS in detail
+b) Explain SHA with suitable example
 ```
