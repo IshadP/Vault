@@ -59,3 +59,5 @@ b) Hash function
 
 a) Authentication Requirement
 ```
+
+![[Pasted image 20250927103712.png]]
