@@ -18,7 +18,9 @@ b) Elaborate on digital signatuer auth with suitable example
 ```
 
 ```Winter2024
-a) Explain Diffie-Hielman
+b) Explain Diffie-Hielman with suitable example
+
+a)
 ```
 # Chapter 4
 ``` Summer2025
