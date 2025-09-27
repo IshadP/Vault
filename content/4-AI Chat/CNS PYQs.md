@@ -61,3 +61,5 @@ a) Authentication Requirement
 ```
 
 ![[Pasted image 20250927103712.png]]
+
+![[Pasted image 20250927121640.png]]
