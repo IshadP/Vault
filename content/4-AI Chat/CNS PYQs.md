@@ -21,5 +21,5 @@ b) Elaborate on digital signatuer auth with suitable example
 
 # Chapter 4
 ``` Summer 22025
-
+a) What is the need of message integrity and auth? Explain the attacks ifien
 ```
