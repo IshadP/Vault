@@ -77,3 +77,4 @@ Cryptographic Speed-up (RSA): The CRT is crucial for accelerating the decryption
 Hash Function Design: Principles derived from the CRT are used in the design of certain cryptographic primitives, where operations are carried out over smaller fields and then combined.
 
 Fast Fourier Transform (FFT): The CRT is a core component in developing efficient algorithms for number-theoretic transforms, which are used in signal processing and fast multiplication of large numbers.
+
