@@ -66,3 +66,14 @@ a. **Plaintext Calculation (M):** _Formula:_ M=Cd(modn) _Example:_ M=18103(mod14
 The resulting plaintext M=9 matches the original message sent by Alice, demonstrating the successful encryption and decryption process. The security of this exchange lies in the fact that an attacker who intercepts the public key (7,143) and the ciphertext C=18 must be able to factor n=143 back into p=11 and q=13 to calculate the private key exponent d=103, which is computationally hard when p and q are hundreds of digits long.
 
 ##  Q2
+Significance and Usage of the CRT
+
+The CRT's significance stems from its ability to establish an isomorphism (a structure-preserving correspondence) between the ring of integers modulo a large composite number N and the direct product of the rings of integers modulo its coprime factors.
+
+Simplifying Large Number Arithmetic: The most direct application is transforming computations involving a large modulus N=n1​n2​⋯nk​ into several independent computations using the smaller moduli ni​.
+
+Cryptographic Speed-up (RSA): The CRT is crucial for accelerating the decryption phase of the RSA algorithm. RSA decryption involves the computationally intensive operation M=Cd(modN), where N=p⋅q (the product of two large primes). By applying the CRT, this one large calculation can be efficiently converted into two much faster, smaller, parallel calculations modulo p and modulo q.
+
+Hash Function Design: Principles derived from the CRT are used in the design of certain cryptographic primitives, where operations are carried out over smaller fields and then combined.
+
+Fast Fourier Transform (FFT): The CRT is a core component in developing efficient algorithms for number-theoretic transforms, which are used in signal processing and fast multiplication of large numbers.
