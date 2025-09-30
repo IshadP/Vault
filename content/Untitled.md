@@ -8,7 +8,7 @@
 ---
 
 Q 5. ~~Explain Kerberos authentication protocols (24W)~~
-Q 6. Explain Digital Standard Authentication with suitable example 
+~~Q 6. Explain Digital Standard Authentication with suitable example~~ 
 Q 7.  Define MAC's and explain requirement of MAC's (24W) 
 Q 8. Explain SHA with suitable example (24W)
 
