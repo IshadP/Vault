@@ -39,9 +39,7 @@ e. **Calculate Private Exponent (d):** Calculate the private key exponent d, whi
 **Resulting Keys:**
 
 - **Public Key (PK):** (e,n)=(7,143)
-    
 - **Private Key (SK):** (d,n)=(103,143)
-    
 
 ---
 
