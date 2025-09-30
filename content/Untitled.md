@@ -14,6 +14,8 @@ Q 8. Explain SHA with suitable example (24W)
 
 # Answer
 
+## Q1
+
 The **RSA Algorithm** is a fundamental public-key cryptosystem used for secure data transmission and digital signatures. It is based on **asymmetric cryptography**, using a pair of mathematically linked keys: a **public key** for encryption (which anyone can know) and a **private key** for decryption (which only the recipient knows). RSA's security relies on the computational difficulty of factoring the product of two very large prime numbers.
 
 ---
@@ -62,3 +64,5 @@ a. **Plaintext Calculation (M):** _Formula:_ M=Cd(modn) _Example:_ M=18103(mod14
 **Decrypted Plaintext M=9.**
 
 The resulting plaintext M=9 matches the original message sent by Alice, demonstrating the successful encryption and decryption process. The security of this exchange lies in the fact that an attacker who intercepts the public key (7,143) and the ciphertext C=18 must be able to factor n=143 back into p=11 and q=13 to calculate the private key exponent d=103, which is computationally hard when p and q are hundreds of digits long.
+
+##  Q2
