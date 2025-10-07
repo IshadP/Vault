@@ -1,3 +1,5 @@
+
+(a) State and explain various parameters involved in development of hydrogen based economy.
 (a) Explain the process of electrolysis for hydrozen production. What is the different types of electrolysis and what are their efficiencies.  
 
 (b) Explain the basic concept of how a fuel cell works and its main components. 
