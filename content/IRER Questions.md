@@ -6,7 +6,7 @@
 ~~(b) Explain the basic concept of how a fuel cell works and its main components. 
 (b) Define fuel cell. State its working principle and types of it.~~
 ~~Explain Fuel Cell in detail.~~
-What is the principle working of a fuel cell. Enlist fuel cell used to convert chemical into electrical enegry and explain any one of them
+~~What is the principle working of a fuel cell. Enlist fuel cell used to convert chemical into electrical enegry and explain any one of them~~
 
 OR 
 
