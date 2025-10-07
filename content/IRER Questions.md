@@ -1,7 +1,7 @@
 
 (a) State and explain various parameters involved in development of hydrogen based economy.
 (a) Explain the process of electrolysis for hydrozen production. What is the different types of electrolysis and what are their efficiencies.  
-Hydrogen is a promising source of energy. Justify
+~~Hydrogen is a promising source of energy. Justify~~
 
 (b) Explain the basic concept of how a fuel cell works and its main components. 
 (b) Define fuel cell. State its working principle and types of it.
@@ -15,4 +15,4 @@ OR
 
 (b) Explain the construction and working of dry steam geothermal power plant.
 (b) State the types of geothermal systems. Explain any one system with neat sketch.
-Explain liquid dominated Geothermal plant also represent thermodynamic cycle
+Explain liquid dominated Geothermal plant also represent thermody
