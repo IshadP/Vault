@@ -15,4 +15,4 @@ OR
 
 (b) Explain the construction and working of dry steam geothermal power plant.
 (b) State the types of geothermal systems. Explain any one system with neat sketch.
-
+Explain liquid dominated Geothermal plant also represent thermodynamic cycle
