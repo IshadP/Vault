@@ -3,8 +3,8 @@
 (a) Explain the process of electrolysis for hydrozen production. What is the different types of electrolysis and what are their efficiencies.  
 ~~Hydrogen is a promising source of energy. Justify~~
 
-(b) Explain the basic concept of how a fuel cell works and its main components. 
-(b) Define fuel cell. State its working principle and types of it.
+~~(b) Explain the basic concept of how a fuel cell works and its main components. 
+(b) Define fuel cell. State its working principle and types of it.~~
 ~~Explain Fuel Cell in detail.~~
 What is the principle working of a fuel cell. Enlist fuel cell used to convert chemical into electrical enegry and explain any one of them
 
