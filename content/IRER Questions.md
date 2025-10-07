@@ -10,7 +10,7 @@
 
 OR 
 
-(a) Explain the basic principle of harnessing geothermal energy for various applications. What are the advantages of geothermal energy in terms of sustainability and environmental impact ? 
+~~(a) Explain the basic principle of harnessing geothermal energy for various applications.~~ What are the advantages of geothermal energy in terms of sustainability and environmental impact ? 
 (a) Explain how energy can be developed from a geothermal system.
 
 (b) Explain the construction and working of dry steam geothermal power plant.
