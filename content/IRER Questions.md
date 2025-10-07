@@ -1,2 +1,4 @@
 (a) Explain the process of electrolysis for hydrozen production. What is the different types of electrolysis and what are their efficiencies. 7 
-(b) Explain the basic concept of how a fuel cell works and its main components. \OR 10. (a) Explain the basic principle of harnessing geothermal energy for various applications. What are the advantages of geothermal energy in terms of sustainability and environmental impact ? 7 (b) Explain the construction and working of dry steam geothermal power plant. 7 
+(b) Explain the basic concept of how a fuel cell works and its main components. 
+OR 
+(a) Explain the basic principle of harnessing geothermal energy for various applications. What are the advantages of geothermal energy in terms of sustainability and environmental impact ? 7 (b) Explain the construction and working of dry steam geothermal power plant. 7 
