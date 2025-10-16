@@ -44,4 +44,6 @@ I thank {names} for orgnaising sucg a educationla program for students and profe
 
 ## 16/10/25
 
-AI 
+how every AI app starts with the same question bar but each one _feels_ different?
+
+Lately I have been working on 2-3 AI project
