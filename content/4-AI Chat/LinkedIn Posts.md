@@ -50,4 +50,4 @@ Lately I have been working on few AI project and one things common is all is how
 
 While The input field is usually quickly ignored in favour of usefulness of the model to person; inputs fields have developed over past few year. For my project I considered 4 different fields which felt are counterparts of the real world implementations.
 
-First was created with mindset that each 
+First was created with mindset that each element show help user perform one single task, thus sep
