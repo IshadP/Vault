@@ -64,7 +64,7 @@ Why does every AI app have the same input bar, yet none of them feel the same?
 
 I was designing the input bar for my AI project. What seemed like a simple task was a loop down a rabbit hole..... I created 4 iterations based on my understanding and readings.
 
-**Bar 1:** a clean input field with a floating “+” for file uploads, inspired by the _Law of Proximity_. It looked tidy, but on closer inspection the “+” felt disconnected, almost like a different feature.
+**Bar 1:** a clean input field with a floating “+” for file uploads, inspired by the _Law of Proximity_. It looked tidy, but something was off, the “+” felt disconnected, almost like a different feature.
 
 **Bar 2:** I moved the “+” inside the field based on feedback from Bar 1. It instantly felt more cohesive, closer to ChatGPT’s layout. Still, one question remained—why couldn’t the “+” sit closer to the microphone icon? The symmetry felt unresolved.
 
