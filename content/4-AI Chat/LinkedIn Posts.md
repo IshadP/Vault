@@ -52,4 +52,9 @@ While The input field is usually quickly ignored in favour of usefulness of the 
 
 First was created with mindset that each element show help user perform one single task, thus separating Add file  (+) button seemed fair as it was used to add files rather than ask question. This came with a downside that it felt too disconnected form the rest of the bar, which user might interpret as a completely different task. This might confuse user or even make them uncomfortable with it.
 
-Second was 
+Second was based on this exact thinking, integrating + in the bar making it feel more cohesive. But the next question was does seperating + and mic icon made sense? Bar 4 is exactly how I iterated to see which seems more usable. 
+
+Bar 3 was more simiilar to Gemini, I recreated to understand why Google made it so
+
+Another Challenge was to understand placement of "Send" button. Intially I went with no send button, but when I was searching through gemini I found that they do show send button but only once user has started typing, this made sense right? only show send if user has typed something, cause if there is no text no need to send anything.
+
