@@ -46,4 +46,5 @@ I thank {names} for orgnaising sucg a educationla program for students and profe
 
 how every AI app starts with the same question bar but each one _feels_ different?
 
-Lately I have been working on few AI project and one things common is all is how we provide input to the model
+Lately I have been working on few AI project and one things common is all is how we provide input to the model. 
+
