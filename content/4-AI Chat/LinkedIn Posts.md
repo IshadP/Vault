@@ -62,15 +62,18 @@ Finally we chose Bar 4 after everyone on team agree that it was much better for 
 
 Why does every AI app have the same input bar, yet none of them feel the same?
 
-I was designing input bar for my project, and what seemed like a five-minute task turned into a full design investigation.
+I was designing the input bar for my AI project—what I assumed would be a five-minute task turned into a full design investigation.
 
-Bar 1: a clean input field with a floating “+” for file uploads (based of Law of proximity). Looked tidy but upon looking closely and it felt disconnected, like the + icon was completely different feature.
+**Bar 1:** a clean input field with a floating “+” for file uploads, inspired by the _Law of Proximity_. It looked tidy, but on closer inspection the “+” felt disconnected, almost like a different feature.
 
-Bar 2: Moving + icon inside based on feedback from Bar 1, made it more like a ChatGPT input bar, but why can't + icon be near to mic icon?  
+**Bar 2:** I moved the “+” inside the field based on feedback from Bar 1. It instantly felt more cohesive, closer to ChatGPT’s layout. Still, one question remained—why couldn’t the “+” sit closer to the microphone icon? The symmetry felt unresolved.
 
-Bar 3 was like Gemini's Input bar. It still follows the **Law of Common Region**, keeping every element visually grouped. But beyond that, each part has a single, focused purpose. 
+**Bar 3:** a recreation of Gemini’s input bar. It applies the _Law of Common Region_ by visually grouping elements, and it gives each part a single task. The top zone is purely for typing, and all the icons are moved to bottom zone.
 
-Bar 4: Bar 4 was created based on the cliffhanger from bar 2, if felt a bit crammed honestly and if were going to add multi model capabilities in future it would be more crammed. Nonetheless, as our team agreed it was best for our purpose so we went with it
+**Bar 4:** built from the open question left by Bar 2. It worked, but felt slightly cramped. Adding multimodal features later would only amplify that. Still, for our current text-only scope, the team agreed it was the most balanced solution for our app.
 
+After designing these, one thing I understood clearly, that showing more icons in a single line bar or cramming everything felt wrong cause one reason. 
 
-The top section is dedicated entirely to typing, giving users more horizontal breathing space. It sounds small, but it changes perception; when you see more room to write, you _think_ you have more room to think.
+Our brain perceives the space on screeen = space we have to think. 
+
+So if it was more crammed our brain would have less space to think, causing confusion and loss of clarity.
