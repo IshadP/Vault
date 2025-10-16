@@ -80,4 +80,4 @@ Users start to feel rushed, uncertain, or overloaded even when the functionality
 
 That insight made Bars 2 and 3 clearly stronger from a usability standpoint. Still, the final choice depended on our app’s specific functionality, not on chasing the “best” design in isolation.
 
-I surely would lik
+I surely would like to hear your thoughts on this
