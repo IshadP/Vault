@@ -46,4 +46,4 @@ I thank {names} for orgnaising sucg a educationla program for students and profe
 
 how every AI app starts with the same question bar but each one _feels_ different?
 
-Lately I have been working on 2-3 AI project
+Lately I have been working on few AI project and one things common
