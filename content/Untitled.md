@@ -1,4 +1,4 @@
-**Question Bank** 
+*Question Bank** 
 
 ~~Q 1. Explain RSA Algorithm with Suitable Example (24W)~~
 ~~Q 2. Explain Chinese remainder theorem with suitable example and state its advantages~~ 
