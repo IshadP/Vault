@@ -66,9 +66,9 @@ I was designing the input bar for my AI project. What seemed like a simple task 
 
 **Bar 1:** a clean input field with a floating “+” for file uploads, inspired by the _Law of Proximity_. It looked tidy, but something was off, the “+” felt disconnected, almost like a different feature.
 
-**Bar 2:** I moved the “+” inside the field based on feedback from Bar 1. It instantly felt more cohesive, closer to ChatGPT’s layout. Still, one question remained—why couldn’t the “+” sit closer to the microphone icon? The symmetry felt unresolved.
+**Bar 2:** I moved the “+” inside the field based on feedback from Bar 1. It instantly felt more cohesive, closer to ChatGPT’s layout. Still I asked to myself why couldn’t the “+” sit closer to the microphone icon? The symmetry felt unresolved.
 
-**Bar 3:** a recreation of Gemini’s input bar. It applies the _Law of Common Region_ by visually grouping elements, and it gives each part a single task. The top zone is purely for typing, and all the icons are moved to bottom zone.
+**Bar 3:** A recreation of Gemini’s input bar. It applies the _Law of Common Region_ by visually grouping elements, and it gives each part a single task. The top zone is purely for typing, and all the icons are moved to bottom zone.
 
 **Bar 4:** built from the open question left by Bar 2. It worked, but felt slightly cramped. Adding multimodal features later would only amplify that. Still, for our current text-only scope, the team agreed it was the most balanced solution for our app.
 
