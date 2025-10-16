@@ -62,7 +62,7 @@ Finally we chose Bar 4 after everyone on team agree that it was much better for 
 
 Why does every AI app have the same input bar, yet none of them feel the same?
 
-I was designing the input bar for my AI project—what I assumed would be a five-minute task turned into a full design investigation.
+I was designing the input bar for my AI project. What seemed like a simple task was a loop down a rabbit hole..... I created 4 iterations based on my understanding and readings.
 
 **Bar 1:** a clean input field with a floating “+” for file uploads, inspired by the _Law of Proximity_. It looked tidy, but on closer inspection the “+” felt disconnected, almost like a different feature.
 
