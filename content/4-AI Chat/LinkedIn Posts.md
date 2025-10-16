@@ -59,3 +59,14 @@ Bar 3 was more simiilar to Gemini, I recreated to understand why Google made it 
 Another Challenge was to understand placement of "Send" button. Intially I went with no send button, but when I was searching through gemini I found that they do show send button but only once user has started typing, this made sense right? only show send if user has typed something, cause if there is no text no need to send anything.
 
 Finally we chose Bar 4 after everyone on team agree that it was much better for our implementation as we didn' have multi modal capabalities planned for the project, we need not worry about it, atleast for now
+
+Why does every AI app have the same input bar, yet none of them feel the same?
+
+I was designing input bar for my project, and what seemed like a five-minute task turned into a full design investigation.
+
+Bar 1: a clean input field with a floating “+” for file uploads. Looked tidy—but users thought it did something else.  
+Bar 2: I moved the “+” inside the field. More cohesion, less confusion. But now the layout felt unbalanced next to the mic icon.  
+Bar 3: I rebuilt Gemini’s design from scratch just to see what decisions were hiding in plain sight. Turns out, Google shows the send button _only_ after typing begins. Elegant. Logical.  
+Bar 4: our final choice. Simpler, unified, and suited for text-only input.
+
+The mystery solved itself: AI interfaces aren’t about cramming intelligence into the UI—they’re about removing hesitation from the first interaction.
