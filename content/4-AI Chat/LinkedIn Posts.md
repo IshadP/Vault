@@ -68,8 +68,9 @@ Bar 1: a clean input field with a floating “+” for file uploads (based of La
 
 Bar 2: Moving + icon inside based on feedback from Bar 1, made it more like a ChatGPT input bar, but why can't + icon be near to mic icon?  
 
-Bar 3 was like Gemini's Input bar. It still follows the **Law of Common Region**, keeping every element visually grouped. But beyond that, each part has a single, focused purpose. The top section is dedicated entirely to typing, giving users more horizontal breathing space. It sounds small, but it changes perception; when you see more room to write, you _think_ you have more room to think.
+Bar 3 was like Gemini's Input bar. It still follows the **Law of Common Region**, keeping every element visually grouped. But beyond that, each part has a single, focused purpose. 
 
-Bar 4: Bar 4 was created based on the cliffhanger from bar 2, if felt a bit crammed honestly and if were going to add multi model capabilities in future it would be more crammed. 
+Bar 4: Bar 4 was created based on the cliffhanger from bar 2, if felt a bit crammed honestly and if were going to add multi model capabilities in future it would be more crammed. Nonetheless, as our team agreed it was best for our purpose so we went with it
 
 
+The top section is dedicated entirely to typing, giving users more horizontal breathing space. It sounds small, but it changes perception; when you see more room to write, you _think_ you have more room to think.
