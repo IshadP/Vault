@@ -68,7 +68,7 @@ Bar 1: a clean input field with a floating “+” for file uploads (based of La
 
 Bar 2: Moving + icon inside based on feedback from Bar 1, made it more like a ChatGPT input bar, but why can't + icon be near to mic icon?  
 
-Bar 3: I rebuilt Gemini’s design from scratch just to see what decisions were hiding in plain sight. Turns out, Google shows the send button _only_ after typing begins. Elegant. Logical.  
+Bar 3: I rebuilt Gemini’s design from scratch just to see what decisions were hiding in plain sight. It still uses Law of common regions but it also gives each element a single task to perform. For ex: the top part is completely for typing providing more space for user to type query, which mentally helps user to think clearer as  they perceive they have more space. More over I noticed that they only show send button once a query is typed, which is very interesting take on showing send button
 
 Bar 4: our final choice. Simpler, unified, and suited for text-only input.
 
