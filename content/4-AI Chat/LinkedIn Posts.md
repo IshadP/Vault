@@ -66,7 +66,7 @@ I was designing input bar for my project, and what seemed like a five-minute tas
 
 Bar 1: a clean input field with a floating “+” for file uploads (based of Law of proximity). Looked tidy but upon looking closely and it felt disconnected, like the + icon was completely different feature.
 
-Bar 2: Moving + icon inside based on feedback from Bar 1, but I one question that suddenly arose was why + and   
+Bar 2: Moving + icon inside based on feedback from Bar 1, made it more like a ChatGPT input bar, but why can't + icon be near to mic icon?  
 
 Bar 3: I rebuilt Gemini’s design from scratch just to see what decisions were hiding in plain sight. Turns out, Google shows the send button _only_ after typing begins. Elegant. Logical.  
 
