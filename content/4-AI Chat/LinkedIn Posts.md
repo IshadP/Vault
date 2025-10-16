@@ -58,3 +58,4 @@ Bar 3 was more simiilar to Gemini, I recreated to understand why Google made it 
 
 Another Challenge was to understand placement of "Send" button. Intially I went with no send button, but when I was searching through gemini I found that they do show send button but only once user has started typing, this made sense right? only show send if user has typed something, cause if there is no text no need to send anything.
 
+Finally we chose Bar 4 after everyone on team agree that it was much better for our implementation as we didn' have multi modal capabalities planned for the project, we need not worry about it, atleast for now
