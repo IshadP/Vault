@@ -70,7 +70,7 @@ I was designing the input bar for my AI project. What seemed like a simple task 
 
 **Bar 3:** A recreation of Gemini’s input bar. It applies the _Law of Common Region_ by visually grouping elements, and it gives each part a single task. The top zone is purely for typing, and all the icons are moved to bottom zone.
 
-**Bar 4:** built from the open question left by Bar 2. It worked, but felt slightly cramped. Adding multimodal features later would only amplify that. Still, for our current text-only scope, the team agreed it was the most balanced solution for our app.
+**Bar 4:** Built from the open question left by Bar 2. It worked, but felt slightly cramped. Adding multimodal features later would only only worsen the situation. Still, for our current text-only scope, the team agreed it was the most balanced solution for our app.
 
 After designing these, one thing became very clear cramming too many  things into a single-line bar never feels right. There's a reason for it:
 
