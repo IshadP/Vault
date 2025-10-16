@@ -72,8 +72,8 @@ I was designing the input bar for my AI project—what I assumed would be a five
 
 **Bar 4:** built from the open question left by Bar 2. It worked, but felt slightly cramped. Adding multimodal features later would only amplify that. Still, for our current text-only scope, the team agreed it was the most balanced solution for our app.
 
-After designing these, one thing I understood clearly, that showing more icons in a single line bar or cramming everything felt wrong cause one reason. 
+After designing these, one thing became very clear—cramming too many icons into a single-line bar never feels right. There's a reason for it:
 
-Our brain perceives the space on screeen = space we have to think. 
+Visual Space on screen = Mental Space
 
 So if it was more crammed our brain would have less space to think, causing confusion and loss of clarity.
