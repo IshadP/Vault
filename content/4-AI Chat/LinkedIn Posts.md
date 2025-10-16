@@ -76,4 +76,4 @@ After designing these, one thing became very clear, cramming too many things int
 
 Visual Space on screen = Mental Space
 
-Users start to feel rushed, uncertain, or overloaded even if the functionality is solid. Less space is cognitive clutter!
+Users start to feel rushed, uncertain, or overloaded even if the functionality is solid. Less space is cognitive clutter! This made a Bar 2 and 3 clearly better, but the choice of the bar is based on functionality of app rather than always being the best in class
