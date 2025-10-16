@@ -70,6 +70,6 @@ Bar 2: Moving + icon inside based on feedback from Bar 1, made it more like a Ch
 
 Bar 3 was like Gemini's Input bar. It still follows the **Law of Common Region**, keeping every element visually grouped. But beyond that, each part has a single, focused purpose. The top section is dedicated entirely to typing, giving users more horizontal breathing space. It sounds small, but it changes perception; when you see more room to write, you _think_ you have more room to think.
 
-Bar 4: Bar 4 was created based on the cliffhanger from bar 2, if felt a bit 
+Bar 4: Bar 4 was created based on the cliffhanger from bar 2, if felt a bit crammed honeslty and if were going to add multi
 
 
