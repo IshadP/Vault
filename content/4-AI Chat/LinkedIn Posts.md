@@ -48,4 +48,4 @@ how every AI app starts with the same question bar but each one _feels_ differen
 
 Lately I have been working on few AI project and one things common is all is how we provide input to the model. 
 
-While The input field is 
+While The input field is usually quickly ignored in favour of the 
