@@ -64,7 +64,7 @@ Why does every AI app have the same input bar, yet none of them feel the same?
 
 I was designing input bar for my project, and what seemed like a five-minute task turned into a full design investigation.
 
-Bar 1: a clean input field with a floating “+” for file uploads. Looked tidy—but users thought it did something else.  
+Bar 1: a clean input field with a floating “+” for file uploads. Looked tidy but upon looking closely and it felt disconnected 
 Bar 2: I moved the “+” inside the field. More cohesion, less confusion. But now the layout felt unbalanced next to the mic icon.  
 Bar 3: I rebuilt Gemini’s design from scratch just to see what decisions were hiding in plain sight. Turns out, Google shows the send button _only_ after typing begins. Elegant. Logical.  
 Bar 4: our final choice. Simpler, unified, and suited for text-only input.
