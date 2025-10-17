@@ -2,11 +2,10 @@
 title: Templates
 draft: false
 date: 2025-09-02
-ObsidianUIMode: read
+ObsidianUIMode: preview
 tags:
   -
 ---
-
 %% Begin Waypoint %%
 - [[Article]]
 - [[Code]]
