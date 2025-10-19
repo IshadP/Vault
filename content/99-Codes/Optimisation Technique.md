@@ -9,3 +9,4 @@ tags:
 
 # Chp 1
 ## Simplex Method
+https://youtu.be/M8POtpPtQZc?si=wSz9psnL_55-3K_m
