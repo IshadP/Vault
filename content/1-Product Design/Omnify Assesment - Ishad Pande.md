@@ -108,7 +108,7 @@ if we think fo3 HeadSpace as a University and Calm as a Spa, Flow can be called 
 
 ---
 ## Wireframes
-
+![[image.png]]
 ---
 # User Interface
 ![[Pasted image 20251020230555.png]]![[Pasted image 20251020230604.png]]
