@@ -103,5 +103,4 @@ Apps's goal is to help busy young professionals improve their mental well-being 
 ![[IMG20251020122814.jpg]]
 
 ![[IMG20251020122807.jpg]]
-
-![[IMG20251020122841.jpg]]
+![[IMG20251020122841 1.jpg]]
