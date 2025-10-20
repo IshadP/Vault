@@ -15,8 +15,8 @@ I considered 2 user persona, on high and low spectrum of age group. This was don
 
 ### User 1: Tamara
 
-Age: 28 years old
-Professions: Graphic Designer
+**Age**: 28 years old
+**Profession**: Graphic Designer
 #### Common Aspirations:
 1. She is creative but slightly introverted.
 2. She is interested in introducing daily mindfulness activities into her routine.
@@ -35,11 +35,7 @@ Professions: Graphic Designer
 3. The app has a fixed routine and doesn't dynamically update based on her mental state.
 4. Usually, motivation to improve dies down within a week due to no visible benefits.
 
-Here is the information based on the image:
-
 ### User Persona: Aryan
-
-**Demographics:**
 
  **Age:** 23-year-old
  **Profession:** Software Dev
