@@ -99,6 +99,10 @@ Apps's goal is to help busy young professionals improve their mental well-being 
 ---
 ## Flow vs Headspace & Calm
 HeadSpace and Calm are two of the biggest competitor to this app due to fact that they hold majority of market share.
+1. **Flow vs HeadSpace**
+	-> Headspace can feel like a significant time commitment, often leading to choice paralysis. Flow bypasses this by offering instant, mood-based recommendations that require no long-term course enrollment
+2. Flow vs Calm
+	-> 
 
 
 ## Wireframes
