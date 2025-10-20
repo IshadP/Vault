@@ -66,3 +66,11 @@ Here is the information based on the image:
 
 >[!info] Mental wellness app are not for the people who are diagnosed with mental illness!
 
+## Problems
+### General Problems Based on Forums
+1. Most apps focus very niche on the mental wellness aspect forgetting mental health is connected to other aspects such as physical health. (23% - 47%)
+2. Apps usually are too intrusive, hoping user change large sum of their routine causing overwhelm for youth.
+3. Apps don’t keep track of data causing loss of tracking on user’s part.
+4. Tasks become repetitive after a while; with no significant gains. (one size fits all model)
+5. Apps don’t emphasize enough on social life (i.e. make user leave app and go outside) rather make user sit at home and follow a routine. (might work for some, but many people disagree that it will work for them)
+6. 
