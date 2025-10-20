@@ -26,8 +26,16 @@ Professions: Graphic Designer
 1.  Confused by the multiple app options available on the market.
 2. Finds it difficult to stick to long routines.
 3. Struggles to disconnect from work
+#### User Specific Problems:
+1. User doesn't know which app is best due to the large variety.
+2. Due to her introvertedness, she struggles to disconnect from work as she doesn't have much social life.
+#### App Specific Problems:
+1. The apps are too intrusive and make the user change a lot of their routine
+2. She is overwhelmed by the amount of things to do in a session.
+3. The app has a fixed routine and doesn't dynamically update based on her mental state.
+4. Usually, motivation to improve dies down within a week due to no visible benefits.
 
-### User 2: Tamara
+### User 1: Tamara
 
 Age: 28 years old
 Professions: Graphic Designer
@@ -40,3 +48,11 @@ Professions: Graphic Designer
 1.  Confused by the multiple app options available on the market.
 2. Finds it difficult to stick to long routines.
 3. Struggles to disconnect from work
+#### User Specific Problems:
+1. User doesn't know which app is best due to the large variety.
+2. Due to her introvertedness, she struggles to disconnect from work as she doesn't have much social life.
+#### App Specific Problems:
+1. The apps are too intrusive and make the user change a lot of their routine
+2. She is overwhelmed by the amount of things to do in a session.
+3. The app has a fixed routine and doesn't dynamically update based on her mental state.
+4. Usually, motivation to improve dies down within a week due to no visible benefits.
