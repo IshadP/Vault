@@ -73,4 +73,5 @@ Here is the information based on the image:
 3. Apps don’t keep track of data causing loss of tracking on user’s part.
 4. Tasks become repetitive after a while; with no significant gains. (one size fits all model)
 5. Apps don’t emphasize enough on social life (i.e. make user leave app and go outside) rather make user sit at home and follow a routine. (might work for some, but many people disagree that it will work for them)
-6. 
+
+
