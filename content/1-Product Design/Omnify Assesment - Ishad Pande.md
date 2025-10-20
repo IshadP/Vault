@@ -112,7 +112,7 @@ if we think fo HeadSpace as a University and Calm as a Spa, Flow can be called a
 ![[IMG20251020122814.jpg]]
 
 ![[IMG20251020122807.jpg]]
-![[IMG20251020122841 1.jpg]]
+![[IMG20251020122841 1.jpg|10x0]]
 
 ---
 # User Interface
