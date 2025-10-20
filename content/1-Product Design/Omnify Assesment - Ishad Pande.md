@@ -74,3 +74,18 @@ I considered 2 user persona, on high and low spectrum of age group. This was don
 
 ---
 
+## Assumptions
+**1. Business Objective** To create a mental wellness app offering flexible, on-the-go mindfulness exercises tailored to the user's available time.
+
+**2. Success Metric**: Success metric will be the user retention rate.
+
+**3. Design Approach** l utilized the Material Design system (Material UI) to ensure quick development.
+
+**4. Other Assumptions**
+- **User Intent:** The target audience is actively seeking to improve their mental health.
+- **Time Constraint:** Users can dedicate a maximum of 15 minutes per session.
+- **Motivation:** Users are looking for an accessible and affordable alternative to costly professional therapy.
+
+---
+
+## Flow as a solution
