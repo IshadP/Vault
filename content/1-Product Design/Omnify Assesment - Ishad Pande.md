@@ -104,7 +104,7 @@ HeadSpace and Calm are two of the biggest competitor to this app due to fact tha
 2. Flow vs Calm
 	-> Calm's broad focus on relaxation can be less effective for targeted, daytime needs like pre-meeting focus or midday stress relief. Flow is specifically designed for these "in-the-moment" professional scenarios, offering goal-oriented exercises.
 
-if we think fo HeadSpace as a University and Calm as a spa 
+if we think fo HeadSpace as a University and Calm as a Spa, our
 
 
 ## Wireframes
