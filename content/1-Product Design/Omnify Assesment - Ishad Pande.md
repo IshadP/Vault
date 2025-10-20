@@ -61,3 +61,8 @@ Here is the information based on the image:
 2. Apps provide tasks without clearly stating how it will be useful to him or what's the goal.
 3. Apps usually make the user spend upwards of 20-30 mins in a session, which he can't dedicate.
 4. He is mindful about how acts/exercises will affect his life.
+
+---
+
+>[!info] Mental wellness app are not for the people who are diagnosed with mental illness!
+
