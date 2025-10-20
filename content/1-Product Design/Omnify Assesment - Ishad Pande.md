@@ -95,4 +95,4 @@ Apps's goal is to help busy young professionals improve their mental well-being 
 1. **Dynamic Mood Check-in:** The app asks for their current emotional state to provide personalized activity suggestions. This helps user by adapting to there daily mental state and helps them by giving him a simple way to identify his feelings.
 2. **Time-Labeled "Bite-Sized" Sessions:** Every exercise is clearly labeled with its duration (e.g., "5 min," "11 min"). This directly serves young professionals need for very short sessions.
 3. **Visual Progress Tracking:** The progress and calendar givers a clear visual history of completed sessions and time invested. This is crucial for people, who are motivated by seeing visible benefits.
-4. **Goal-Oriented Routines:** Users can set a daily priority, like "Focus," to receive curated, relevant exercises. This gives Aryan the clarity and purpose he seeks and helps Tamara avoid feeling overwhelmed by choice.
+4. **Goal-Oriented Routines:** Users can set a daily priority, like "Focus," to receive curated, relevant exercises. This gives users the clarity, purpose and make them feel in control.
