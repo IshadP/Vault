@@ -96,8 +96,11 @@ Apps's goal is to help busy young professionals improve their mental well-being 
 2. **Time-Labeled "Bite-Sized" Sessions:** Every exercise is clearly labeled with its duration (e.g., "5 min," "11 min"). This directly serves young professionals need for very short sessions.
 3. **Visual Progress Tracking:** The progress and calendar givers a clear visual history of completed sessions and time invested. This is crucial for people, who are motivated by seeing visible benefits.
 4. **Goal-Oriented Routines:** Users can set a daily priority, like "Focus," to receive curated, relevant exercises. This gives users the clarity, purpose and make them feel in control.
-
 ---
+## Flow vs Headspace & Calm
+HeadSpace and Calm are two of the biggest competitor to this app due to fact that they hold majority of market share.
+
+
 ## Wireframes
 
 ![[IMG20251020122814.jpg]]
