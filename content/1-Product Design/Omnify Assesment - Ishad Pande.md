@@ -117,3 +117,6 @@ if we think fo HeadSpace as a University and Calm as a Spa, Flow can be called a
 ---
 # User Interface
 ![[Pasted image 20251020230555.png]]![[Pasted image 20251020230604.png]]
+
+
+By prioritizing speed, personalization, and integration into the workday, our app serves a distinct market gap. While Headspace acts as an educator and Calm as a relaxation tool, Flow provide immediate, targeted support, making mental wellness a practical and accessible habit for busy professionals.
