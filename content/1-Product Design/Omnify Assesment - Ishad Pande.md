@@ -91,5 +91,8 @@ I considered 2 user persona, on high and low spectrum of age group. This was don
 ## Flow as a solution
 ### Unique Selling Point
 Apps's goal is to help busy young professionals improve their mental well-being through short mindfulness activities, designed for those who understand the benefits but lack the time for longer practices.
-
 ### Features:
+1. **Dynamic Mood Check-in:** The app asks for their current emotional state to provide personalized activity suggestions. This helps Tamara by adapting to her daily mental state and helps Aryan by giving him a simple way to identify his feelings.
+2. **Time-Labeled "Bite-Sized" Sessions:** Every exercise is clearly labeled with its duration (e.g., "5 min," "11 min"). This directly serves Aryan’s need for very short sessions and Tamara’s preference for routines under 20 minutes.
+3. **Visual Progress Tracking:** The progress and calendar screens provide a clear visual history of completed sessions and time invested. This is crucial for Tamara, who is motivated by seeing visible benefits, and helps make the process more concrete for Aryan.
+4. **Goal-Oriented Routines:** Users can set a daily priority, like "Focus," to receive curated, relevant exercises. This gives Aryan the clarity and purpose he seeks and helps Tamara avoid feeling overwhelmed by choice.
