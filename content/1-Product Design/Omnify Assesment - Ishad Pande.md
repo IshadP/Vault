@@ -90,4 +90,6 @@ I considered 2 user persona, on high and low spectrum of age group. This was don
 
 ## Flow as a solution
 ### Unique Selling Point
-The apps aims to improve or maintain mental health of young professional who can’t provide much time for mindfulness activities but are self conscious to know it will benefit them.
+Apps's goal is to help busy young professionals improve their mental well-being through short mindfulness activities, designed for those who understand the benefits but lack the time for longer practices.
+
+### Features:
